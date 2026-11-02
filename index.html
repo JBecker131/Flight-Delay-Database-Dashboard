@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Departures | Flight delay forecast</title>
+  <meta name="description" content="Find your flight on the departures board and see how likely it is to leave late.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="pictogram-departure" viewBox="0 0 48 48">
+      <rect width="48" height="48" rx="5" fill="#000"/>
+      <path fill="currentColor" transform="translate(6 6) scale(1.5)" d="M2.5 19h19v2h-19v-2zm19.57-9.36c-.21-.8-1.04-1.28-1.84-1.06L14.92 10l-6.9-6.43-1.93.51 4.14 7.17-4.97 1.33-1.97-1.54-1.45.39 2.59 4.49L21 11.49c.81-.23 1.28-1.05 1.07-1.85z"/>
+    </symbol>
+    <!-- Weather icons adapted from Lucide (ISC license) -->
+    <symbol id="wx-clear" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/>
+    </symbol>
+    <symbol id="wx-cloud" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/>
+    </symbol>
+    <symbol id="wx-rain" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 14.9A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.24M16 14v6M8 14v6M12 16v6"/>
+    </symbol>
+    <symbol id="wx-storm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M6 16.33A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 .5 8.97M13 12l-3 5h4l-3 5"/>
+    </symbol>
+    <symbol id="wx-wind" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12.8 19.6A2 2 0 1 0 14 16H2M17.5 8a2.5 2.5 0 1 1 2 4H2M9.8 4.4A2 2 0 1 1 11 8H2"/>
+    </symbol>
+    <symbol id="wx-fog" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 14.9A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.24M16 17H7M17 21H9"/>
+    </symbol>
+  </svg>
+
+  <header class="sign">
+    <div class="sign__inner">
+      <svg class="sign__icon" aria-hidden="true"><use href="#pictogram-departure"/></svg>
+      <div class="sign__title">
+        <h1>Departures</h1>
+        <p>Delay forecast</p>
+      </div>
+      <div class="sign__clock">
+        <time id="clock-time"></time>
+        <span id="clock-date"></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="terminal">
+    <section class="controls" aria-label="Find your flight">
+      <p class="controls__intro">Find your flight on the board and select it to see how likely it is to leave late.</p>
+      <div class="controls__fields">
+        <label class="field">
+          <span>Flying from</span>
+          <select id="filter-origin"></select>
+        </label>
+        <label class="field">
+          <span>Flying to</span>
+          <select id="filter-dest"></select>
+        </label>
+        <label class="field field--search">
+          <span>Flight number</span>
+          <input id="filter-flight" type="search" placeholder="AA 1423" autocomplete="off" spellcheck="false">
+        </label>
+        <button id="clear-filters" class="text-button" type="button" hidden>Clear filters</button>
+      </div>
+    </section>
+
+    <section class="board" id="board" aria-labelledby="board-heading">
+      <h2 id="board-heading" class="visually-hidden">Departures board</h2>
+      <div class="board__head" id="board-head" aria-hidden="true"></div>
+      <div class="board__rows" id="board-rows"></div>
+    </section>
+
+    <div class="board-footer">
+      <p id="board-status" class="board-footer__status" aria-live="polite"></p>
+      <nav class="pager" aria-label="Board pages">
+        <button id="page-prev" type="button">Previous page</button>
+        <span id="page-label"></span>
+        <button id="page-next" type="button">Next page</button>
+      </nav>
+    </div>
+
+    <ul class="legend" aria-label="What the remarks mean">
+      <li data-tone="ok">On time: under 35% delay risk</li>
+      <li data-tone="warn">Possible delay: 35 to 59%</li>
+      <li data-tone="bad">Likely delayed: 60% or more</li>
+    </ul>
+
+    <p class="note">Delay chances are placeholders until our model is trained; flights and weather are real.</p>
+  </main>
+
+  <dialog id="flight-dialog" class="detail" aria-labelledby="detail-title">
+    <div class="detail__sign">
+      <svg class="detail__icon" aria-hidden="true"><use href="#pictogram-departure"/></svg>
+      <div>
+        <h2 id="detail-title"></h2>
+        <p id="detail-route"></p>
+      </div>
+      <button class="detail__close" id="detail-close" type="button">Close</button>
+    </div>
+
+    <div class="detail__body">
+      <div class="readout">
+        <div class="readout__tiles" id="detail-risk"></div>
+        <div>
+          <p class="readout__label">Chance of a delay over 15 minutes</p>
+          <p class="readout__verdict" id="detail-verdict"></p>
+        </div>
+      </div>
+
+      <dl class="facts" id="detail-facts"></dl>
+
+      <section class="weather" aria-labelledby="weather-title">
+        <h3 class="weather__title" id="weather-title"></h3>
+        <p class="weather__when" id="weather-when"></p>
+        <div class="weather__now">
+          <svg class="weather__icon" aria-hidden="true"><use id="weather-icon" href="#wx-clear"/></svg>
+          <p class="weather__temp" id="weather-temp"></p>
+          <p class="weather__condition" id="weather-condition"></p>
+        </div>
+        <dl class="weather__stats" id="weather-stats"></dl>
+        <p class="weather__impact" id="weather-impact"></p>
+      </section>
+
+      <h3 class="factors__title">What's driving this</h3>
+      <p class="factors__hint" id="detail-hint"></p>
+      <ol class="factors" id="detail-factors"></ol>
+
+      <p class="detail__note">Synthetic prediction for display. The real model's output will appear here once it's connected.</p>
+    </div>
+  </dialog>
+
+  <script src="js/data.js"></script>
+  <script src="js/splitflap.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

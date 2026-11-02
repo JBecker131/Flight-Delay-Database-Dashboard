@@ -1,0 +1,3285 @@
+{
+ "airports": [
+  {
+   "code": "ABE",
+   "city": "Allentown/Bethlehem/Easton",
+   "board": "ALLENTOWN/BETHLEHE",
+   "state": "PA",
+   "lat": 40.651773,
+   "lon": -75.442797,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ABI",
+   "city": "Abilene",
+   "board": "ABILENE",
+   "state": "TX",
+   "lat": 32.4113006592,
+   "lon": -99.68190002440001,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "ABQ",
+   "city": "Albuquerque",
+   "board": "ALBUQUERQUE",
+   "state": "NM",
+   "lat": 35.039976,
+   "lon": -106.608925,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "ABR",
+   "city": "Aberdeen",
+   "board": "ABERDEEN",
+   "state": "SD",
+   "lat": 45.449100494384766,
+   "lon": -98.42179870605469,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "ABY",
+   "city": "Albany",
+   "board": "ALBANY",
+   "state": "GA",
+   "lat": 31.532946,
+   "lon": -84.196215,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ACK",
+   "city": "Nantucket",
+   "board": "NANTUCKET",
+   "state": "MA",
+   "lat": 41.25310135,
+   "lon": -70.06020355,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ACT",
+   "city": "Waco",
+   "board": "WACO",
+   "state": "TX",
+   "lat": 31.611299514770508,
+   "lon": -97.23049926757812,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "ACV",
+   "city": "Arcata/Eureka",
+   "board": "ARCATA/EUREKA",
+   "state": "CA",
+   "lat": 40.978101,
+   "lon": -124.109,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "ACY",
+   "city": "Atlantic City",
+   "board": "ATLANTIC CITY",
+   "state": "NJ",
+   "lat": 39.456201,
+   "lon": -74.577511,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ADK",
+   "city": "Adak Island",
+   "board": "ADAK ISLAND",
+   "state": "AK",
+   "lat": 51.883564,
+   "lon": -176.642783,
+   "tz": "America/Adak"
+  },
+  {
+   "code": "ADQ",
+   "city": "Kodiak",
+   "board": "KODIAK",
+   "state": "AK",
+   "lat": 57.75,
+   "lon": -152.4940033,
+   "tz": "America/Anchorage"
+  },
+  {
+   "code": "AEX",
+   "city": "Alexandria",
+   "board": "ALEXANDRIA",
+   "state": "LA",
+   "lat": 31.325828,
+   "lon": -92.546702,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "AGS",
+   "city": "Augusta",
+   "board": "AUGUSTA",
+   "state": "GA",
+   "lat": 33.3699,
+   "lon": -81.9645,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "AKN",
+   "city": "King Salmon",
+   "board": "KING SALMON",
+   "state": "AK",
+   "lat": 58.677845,
+   "lon": -156.651965,
+   "tz": "America/Anchorage"
+  },
+  {
+   "code": "ALB",
+   "city": "Albany",
+   "board": "ALBANY",
+   "state": "NY",
+   "lat": 42.748299,
+   "lon": -73.801697,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ALO",
+   "city": "Waterloo",
+   "board": "WATERLOO",
+   "state": "IA",
+   "lat": 42.557098388671875,
+   "lon": -92.40029907226562,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "ALW",
+   "city": "Walla Walla",
+   "board": "WALLA WALLA",
+   "state": "WA",
+   "lat": 46.09489822,
+   "lon": -118.288002,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "AMA",
+   "city": "Amarillo",
+   "board": "AMARILLO",
+   "state": "TX",
+   "lat": 35.217857,
+   "lon": -101.706444,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "ANC",
+   "city": "Anchorage",
+   "board": "ANCHORAGE",
+   "state": "AK",
+   "lat": 61.179004,
+   "lon": -149.992561,
+   "tz": "America/Anchorage"
+  },
+  {
+   "code": "APN",
+   "city": "Alpena",
+   "board": "ALPENA",
+   "state": "MI",
+   "lat": 45.0780983,
+   "lon": -83.56030273,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "ASE",
+   "city": "Aspen",
+   "board": "ASPEN",
+   "state": "CO",
+   "lat": 39.223202,
+   "lon": -106.869003,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "ATL",
+   "city": "Atlanta",
+   "board": "ATLANTA",
+   "state": "GA",
+   "lat": 33.6367,
+   "lon": -84.428101,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ATW",
+   "city": "Appleton",
+   "board": "APPLETON",
+   "state": "WI",
+   "lat": 44.258515,
+   "lon": -88.519,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "ATY",
+   "city": "Watertown",
+   "board": "WATERTOWN",
+   "state": "SD",
+   "lat": 44.91400146,
+   "lon": -97.15470123,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "AUS",
+   "city": "Austin",
+   "board": "AUSTIN",
+   "state": "TX",
+   "lat": 30.197535,
+   "lon": -97.662015,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "AVL",
+   "city": "Asheville",
+   "board": "ASHEVILLE",
+   "state": "NC",
+   "lat": 35.435488,
+   "lon": -82.541853,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "AVP",
+   "city": "Scranton/Wilkes-Barre",
+   "board": "SCRANTON/WILKES-BA",
+   "state": "PA",
+   "lat": 41.337064,
+   "lon": -75.724232,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "AZA",
+   "city": "Phoenix",
+   "board": "PHOENIX",
+   "state": "AZ",
+   "lat": 33.3078,
+   "lon": -111.654999,
+   "tz": "America/Phoenix"
+  },
+  {
+   "code": "AZO",
+   "city": "Kalamazoo",
+   "board": "KALAMAZOO",
+   "state": "MI",
+   "lat": 42.232105,
+   "lon": -85.549637,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "BDL",
+   "city": "Hartford",
+   "board": "HARTFORD",
+   "state": "CT",
+   "lat": 41.938555,
+   "lon": -72.688016,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "BET",
+   "city": "Bethel",
+   "board": "BETHEL",
+   "state": "AK",
+   "lat": 60.77980042,
+   "lon": -161.8379974,
+   "tz": "America/Anchorage"
+  },
+  {
+   "code": "BFF",
+   "city": "Scottsbluff",
+   "board": "SCOTTSBLUFF",
+   "state": "NE",
+   "lat": 41.87400055,
+   "lon": -103.5960007,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "BFL",
+   "city": "Bakersfield",
+   "board": "BAKERSFIELD",
+   "state": "CA",
+   "lat": 35.433601,
+   "lon": -119.056999,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "BGM",
+   "city": "Binghamton",
+   "board": "BINGHAMTON",
+   "state": "NY",
+   "lat": 42.20869827,
+   "lon": -75.97979736,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "BGR",
+   "city": "Bangor",
+   "board": "BANGOR",
+   "state": "ME",
+   "lat": 44.806364,
+   "lon": -68.826668,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "BHM",
+   "city": "Birmingham",
+   "board": "BIRMINGHAM",
+   "state": "AL",
+   "lat": 33.562877,
+   "lon": -86.750712,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "BIH",
+   "city": "Bishop",
+   "board": "BISHOP",
+   "state": "CA",
+   "lat": 37.3731,
+   "lon": -118.363998,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "BIL",
+   "city": "Billings",
+   "board": "BILLINGS",
+   "state": "MT",
+   "lat": 45.808932,
+   "lon": -108.541242,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "BIS",
+   "city": "Bismarck/Mandan",
+   "board": "BISMARCK/MANDAN",
+   "state": "ND",
+   "lat": 46.772734,
+   "lon": -100.746874,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "BJI",
+   "city": "Bemidji",
+   "board": "BEMIDJI",
+   "state": "MN",
+   "lat": 47.50939941,
+   "lon": -94.93370056,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "BLI",
+   "city": "Bellingham",
+   "board": "BELLINGHAM",
+   "state": "WA",
+   "lat": 48.79280090332031,
+   "lon": -122.53800201416016,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "BLV",
+   "city": "Belleville",
+   "board": "BELLEVILLE",
+   "state": "IL",
+   "lat": 38.5452,
+   "lon": -89.835197,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "BMI",
+   "city": "Bloomington/Normal",
+   "board": "BLOOMINGTON/NORMAL",
+   "state": "IL",
+   "lat": 40.4771,
+   "lon": -88.915901,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "BNA",
+   "city": "Nashville",
+   "board": "NASHVILLE",
+   "state": "TN",
+   "lat": 36.1245,
+   "lon": -86.6782,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "BOI",
+   "city": "Boise",
+   "board": "BOISE",
+   "state": "ID",
+   "lat": 43.5644,
+   "lon": -116.223,
+   "tz": "America/Boise"
+  },
+  {
+   "code": "BOS",
+   "city": "Boston",
+   "board": "BOSTON",
+   "state": "MA",
+   "lat": 42.36197,
+   "lon": -71.0079,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "BPT",
+   "city": "Beaumont/Port Arthur",
+   "board": "BEAUMONT/PORT ARTH",
+   "state": "TX",
+   "lat": 29.9508,
+   "lon": -94.020699,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "BQK",
+   "city": "Brunswick",
+   "board": "BRUNSWICK",
+   "state": "GA",
+   "lat": 31.258801,
+   "lon": -81.466499,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "BQN",
+   "city": "Aguadilla",
+   "board": "AGUADILLA",
+   "state": "PR",
+   "lat": 18.4949,
+   "lon": -67.129402,
+   "tz": "America/Puerto_Rico"
+  },
+  {
+   "code": "BRD",
+   "city": "Brainerd",
+   "board": "BRAINERD",
+   "state": "MN",
+   "lat": 46.402861,
+   "lon": -94.129727,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "BRO",
+   "city": "Brownsville",
+   "board": "BROWNSVILLE",
+   "state": "TX",
+   "lat": 25.907238,
+   "lon": -97.425235,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "BRW",
+   "city": "Barrow",
+   "board": "BARROW",
+   "state": "AK",
+   "lat": 71.285402,
+   "lon": -156.766008,
+   "tz": "America/Anchorage"
+  },
+  {
+   "code": "BTM",
+   "city": "Butte",
+   "board": "BUTTE",
+   "state": "MT",
+   "lat": 45.95479965209961,
+   "lon": -112.49700164794922,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "BTR",
+   "city": "Baton Rouge",
+   "board": "BATON ROUGE",
+   "state": "LA",
+   "lat": 30.533199,
+   "lon": -91.149597,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "BTV",
+   "city": "Burlington",
+   "board": "BURLINGTON",
+   "state": "VT",
+   "lat": 44.471901,
+   "lon": -73.153297,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "BUF",
+   "city": "Buffalo",
+   "board": "BUFFALO",
+   "state": "NY",
+   "lat": 42.940498,
+   "lon": -78.732201,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "BUR",
+   "city": "Burbank",
+   "board": "BURBANK",
+   "state": "CA",
+   "lat": 34.202834,
+   "lon": -118.35805,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "BWI",
+   "city": "Baltimore",
+   "board": "BALTIMORE",
+   "state": "MD",
+   "lat": 39.1754,
+   "lon": -76.668297,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "BZN",
+   "city": "Bozeman",
+   "board": "BOZEMAN",
+   "state": "MT",
+   "lat": 45.778853,
+   "lon": -111.153711,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "CAE",
+   "city": "Columbia",
+   "board": "COLUMBIA",
+   "state": "SC",
+   "lat": 33.938172,
+   "lon": -81.123022,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CAK",
+   "city": "Akron",
+   "board": "AKRON",
+   "state": "OH",
+   "lat": 40.916099548339844,
+   "lon": -81.44219970703125,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CDC",
+   "city": "Cedar City",
+   "board": "CEDAR CITY",
+   "state": "UT",
+   "lat": 37.70100021362305,
+   "lon": -113.0989990234375,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "CDV",
+   "city": "Cordova",
+   "board": "CORDOVA",
+   "state": "AK",
+   "lat": 60.491798,
+   "lon": -145.477997,
+   "tz": "America/Anchorage"
+  },
+  {
+   "code": "CHA",
+   "city": "Chattanooga",
+   "board": "CHATTANOOGA",
+   "state": "TN",
+   "lat": 35.035301,
+   "lon": -85.203796,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CHO",
+   "city": "Charlottesville",
+   "board": "CHARLOTTESVILLE",
+   "state": "VA",
+   "lat": 38.13859939575195,
+   "lon": -78.4529037475586,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CHS",
+   "city": "Charleston",
+   "board": "CHARLESTON",
+   "state": "SC",
+   "lat": 32.896159,
+   "lon": -80.038151,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CID",
+   "city": "Cedar Rapids/Iowa City",
+   "board": "CEDAR RAPIDS/IOWA ",
+   "state": "IA",
+   "lat": 41.884701,
+   "lon": -91.7108,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "CIU",
+   "city": "Sault Ste. Marie",
+   "board": "SAULT STE. MARIE",
+   "state": "MI",
+   "lat": 46.242038,
+   "lon": -84.462082,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "CKB",
+   "city": "Clarksburg/Fairmont",
+   "board": "CLARKSBURG/FAIRMON",
+   "state": "WV",
+   "lat": 39.2966,
+   "lon": -80.228104,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CLD",
+   "city": "Carlsbad",
+   "board": "CARLSBAD",
+   "state": "CA",
+   "lat": 33.1283,
+   "lon": -117.279999,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "CLE",
+   "city": "Cleveland",
+   "board": "CLEVELAND",
+   "state": "OH",
+   "lat": 41.411701,
+   "lon": -81.8498,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CLL",
+   "city": "College Station/Bryan",
+   "board": "COLLEGE STATION/BR",
+   "state": "TX",
+   "lat": 30.5886,
+   "lon": -96.3638,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "CLT",
+   "city": "Charlotte",
+   "board": "CHARLOTTE",
+   "state": "NC",
+   "lat": 35.2140007019043,
+   "lon": -80.94309997558594,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CMH",
+   "city": "Columbus",
+   "board": "COLUMBUS",
+   "state": "OH",
+   "lat": 39.998001,
+   "lon": -82.891899,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CMI",
+   "city": "Champaign/Urbana",
+   "board": "CHAMPAIGN/URBANA",
+   "state": "IL",
+   "lat": 40.039819,
+   "lon": -88.276249,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "CMX",
+   "city": "Hancock/Houghton",
+   "board": "HANCOCK/HOUGHTON",
+   "state": "MI",
+   "lat": 47.168399810791016,
+   "lon": -88.48909759521484,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "CNY",
+   "city": "Moab",
+   "board": "MOAB",
+   "state": "UT",
+   "lat": 38.755001,
+   "lon": -109.754997,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "COD",
+   "city": "Cody",
+   "board": "CODY",
+   "state": "WY",
+   "lat": 44.520199,
+   "lon": -109.024002,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "COS",
+   "city": "Colorado Springs",
+   "board": "COLORADO SPRINGS",
+   "state": "CO",
+   "lat": 38.805801,
+   "lon": -104.700996,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "COU",
+   "city": "Columbia",
+   "board": "COLUMBIA",
+   "state": "MO",
+   "lat": 38.8181,
+   "lon": -92.219597,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "CPR",
+   "city": "Casper",
+   "board": "CASPER",
+   "state": "WY",
+   "lat": 42.907381,
+   "lon": -106.461609,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "CRP",
+   "city": "Corpus Christi",
+   "board": "CORPUS CHRISTI",
+   "state": "TX",
+   "lat": 27.770399,
+   "lon": -97.501198,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "CRW",
+   "city": "Charleston/Dunbar",
+   "board": "CHARLESTON/DUNBAR",
+   "state": "WV",
+   "lat": 38.3731,
+   "lon": -81.593201,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CSG",
+   "city": "Columbus",
+   "board": "COLUMBUS",
+   "state": "GA",
+   "lat": 32.516415,
+   "lon": -84.939602,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CVG",
+   "city": "Cincinnati",
+   "board": "CINCINNATI",
+   "state": "KY",
+   "lat": 39.048801,
+   "lon": -84.667801,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "CWA",
+   "city": "Mosinee",
+   "board": "MOSINEE",
+   "state": "WI",
+   "lat": 44.777448,
+   "lon": -89.670238,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "CYS",
+   "city": "Cheyenne",
+   "board": "CHEYENNE",
+   "state": "WY",
+   "lat": 41.155701,
+   "lon": -104.811997,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "DAB",
+   "city": "Daytona Beach",
+   "board": "DAYTONA BEACH",
+   "state": "FL",
+   "lat": 29.18255,
+   "lon": -81.059464,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "DAL",
+   "city": "Dallas",
+   "board": "DALLAS",
+   "state": "TX",
+   "lat": 32.844776,
+   "lon": -96.847653,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "DAY",
+   "city": "Dayton",
+   "board": "DAYTON",
+   "state": "OH",
+   "lat": 39.902401,
+   "lon": -84.219398,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "DCA",
+   "city": "Washington",
+   "board": "WASHINGTON",
+   "state": "VA",
+   "lat": 38.8521,
+   "lon": -77.037697,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "DDC",
+   "city": "Dodge City",
+   "board": "DODGE CITY",
+   "state": "KS",
+   "lat": 37.76340103149414,
+   "lon": -99.9655990600586,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "DEC",
+   "city": "Decatur",
+   "board": "DECATUR",
+   "state": "IL",
+   "lat": 39.834598541259766,
+   "lon": -88.8656997680664,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "DEN",
+   "city": "Denver",
+   "board": "DENVER",
+   "state": "CO",
+   "lat": 39.860027,
+   "lon": -104.673792,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "DFW",
+   "city": "Dallas/Fort Worth",
+   "board": "DALLAS/FORT WORTH",
+   "state": "TX",
+   "lat": 32.896801,
+   "lon": -97.038002,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "DHN",
+   "city": "Dothan",
+   "board": "DOTHAN",
+   "state": "AL",
+   "lat": 31.321300506591797,
+   "lon": -85.44960021972656,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "DIK",
+   "city": "Dickinson",
+   "board": "DICKINSON",
+   "state": "ND",
+   "lat": 46.797533,
+   "lon": -102.801905,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "DLG",
+   "city": "Dillingham",
+   "board": "DILLINGHAM",
+   "state": "AK",
+   "lat": 59.04470062,
+   "lon": -158.5050049,
+   "tz": "America/Anchorage"
+  },
+  {
+   "code": "DLH",
+   "city": "Duluth",
+   "board": "DULUTH",
+   "state": "MN",
+   "lat": 46.841873,
+   "lon": -92.198746,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "DRO",
+   "city": "Durango",
+   "board": "DURANGO",
+   "state": "CO",
+   "lat": 37.151501,
+   "lon": -107.753998,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "DRT",
+   "city": "Del Rio",
+   "board": "DEL RIO",
+   "state": "TX",
+   "lat": 29.3742008209,
+   "lon": -100.927001953,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "DSM",
+   "city": "Des Moines",
+   "board": "DES MOINES",
+   "state": "IA",
+   "lat": 41.534027,
+   "lon": -93.656719,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "DTW",
+   "city": "Detroit",
+   "board": "DETROIT",
+   "state": "MI",
+   "lat": 42.21377,
+   "lon": -83.353786,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "DVL",
+   "city": "Devils Lake",
+   "board": "DEVILS LAKE",
+   "state": "ND",
+   "lat": 48.115454,
+   "lon": -98.908796,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "EAR",
+   "city": "Kearney",
+   "board": "KEARNEY",
+   "state": "NE",
+   "lat": 40.727001,
+   "lon": -99.006798,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "EAU",
+   "city": "Eau Claire",
+   "board": "EAU CLAIRE",
+   "state": "WI",
+   "lat": 44.86579895019531,
+   "lon": -91.48429870605469,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "ECP",
+   "city": "Panama City",
+   "board": "PANAMA CITY",
+   "state": "FL",
+   "lat": 30.357106,
+   "lon": -85.795414,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "EGE",
+   "city": "Eagle",
+   "board": "EAGLE",
+   "state": "CO",
+   "lat": 39.64260101,
+   "lon": -106.9179993,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "EKO",
+   "city": "Elko",
+   "board": "ELKO",
+   "state": "NV",
+   "lat": 40.82490158081055,
+   "lon": -115.79199981689453,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "ELM",
+   "city": "Elmira/Corning",
+   "board": "ELMIRA/CORNING",
+   "state": "NY",
+   "lat": 42.1599006652832,
+   "lon": -76.8916015625,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ELP",
+   "city": "El Paso",
+   "board": "EL PASO",
+   "state": "TX",
+   "lat": 31.809908,
+   "lon": -106.375607,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "ERI",
+   "city": "Erie",
+   "board": "ERIE",
+   "state": "PA",
+   "lat": 42.083127,
+   "lon": -80.173867,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ESC",
+   "city": "Escanaba",
+   "board": "ESCANABA",
+   "state": "MI",
+   "lat": 45.723199,
+   "lon": -87.088623,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "EUG",
+   "city": "Eugene",
+   "board": "EUGENE",
+   "state": "OR",
+   "lat": 44.124599,
+   "lon": -123.211998,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "EVV",
+   "city": "Evansville",
+   "board": "EVANSVILLE",
+   "state": "IN",
+   "lat": 38.0369987488,
+   "lon": -87.5324020386,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "EWN",
+   "city": "New Bern/Morehead/Beaufort",
+   "board": "NEW BERN/MOREHEAD/",
+   "state": "NC",
+   "lat": 35.0730018616,
+   "lon": -77.04290008539999,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "EWR",
+   "city": "Newark",
+   "board": "NEWARK",
+   "state": "NJ",
+   "lat": 40.6894,
+   "lon": -74.170545,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "EYW",
+   "city": "Key West",
+   "board": "KEY WEST",
+   "state": "FL",
+   "lat": 24.556119,
+   "lon": -81.759579,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "FAI",
+   "city": "Fairbanks",
+   "board": "FAIRBANKS",
+   "state": "AK",
+   "lat": 64.815102,
+   "lon": -147.856003,
+   "tz": "America/Anchorage"
+  },
+  {
+   "code": "FAR",
+   "city": "Fargo",
+   "board": "FARGO",
+   "state": "ND",
+   "lat": 46.9207,
+   "lon": -96.815804,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "FAT",
+   "city": "Fresno",
+   "board": "FRESNO",
+   "state": "CA",
+   "lat": 36.775767,
+   "lon": -119.718018,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "FAY",
+   "city": "Fayetteville",
+   "board": "FAYETTEVILLE",
+   "state": "NC",
+   "lat": 34.991199,
+   "lon": -78.880302,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "FCA",
+   "city": "Kalispell",
+   "board": "KALISPELL",
+   "state": "MT",
+   "lat": 48.310501,
+   "lon": -114.255997,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "FLG",
+   "city": "Flagstaff",
+   "board": "FLAGSTAFF",
+   "state": "AZ",
+   "lat": 35.139757,
+   "lon": -111.669826,
+   "tz": "America/Phoenix"
+  },
+  {
+   "code": "FLL",
+   "city": "Fort Lauderdale",
+   "board": "FORT LAUDERDALE",
+   "state": "FL",
+   "lat": 26.072599,
+   "lon": -80.152702,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "FMN",
+   "city": "Farmington",
+   "board": "FARMINGTON",
+   "state": "NM",
+   "lat": 36.741199,
+   "lon": -108.230003,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "FNT",
+   "city": "Flint",
+   "board": "FLINT",
+   "state": "MI",
+   "lat": 42.969294,
+   "lon": -83.743355,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "FOD",
+   "city": "Fort Dodge",
+   "board": "FORT DODGE",
+   "state": "IA",
+   "lat": 42.552624,
+   "lon": -94.191237,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "FSD",
+   "city": "Sioux Falls",
+   "board": "SIOUX FALLS",
+   "state": "SD",
+   "lat": 43.585463,
+   "lon": -96.741152,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "FSM",
+   "city": "Fort Smith",
+   "board": "FORT SMITH",
+   "state": "AR",
+   "lat": 35.336601,
+   "lon": -94.367401,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "FWA",
+   "city": "Fort Wayne",
+   "board": "FORT WAYNE",
+   "state": "IN",
+   "lat": 40.978896,
+   "lon": -85.194465,
+   "tz": "America/Indiana/Indianapolis"
+  },
+  {
+   "code": "GCC",
+   "city": "Gillette",
+   "board": "GILLETTE",
+   "state": "WY",
+   "lat": 44.3489,
+   "lon": -105.539001,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "GCK",
+   "city": "Garden City",
+   "board": "GARDEN CITY",
+   "state": "KS",
+   "lat": 37.9275016785,
+   "lon": -100.723999023,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "GEG",
+   "city": "Spokane",
+   "board": "SPOKANE",
+   "state": "WA",
+   "lat": 47.6199,
+   "lon": -117.533997,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "GFK",
+   "city": "Grand Forks",
+   "board": "GRAND FORKS",
+   "state": "ND",
+   "lat": 47.949299,
+   "lon": -97.176102,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "GGG",
+   "city": "Longview",
+   "board": "LONGVIEW",
+   "state": "TX",
+   "lat": 32.38399887084961,
+   "lon": -94.71150207519531,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "GJT",
+   "city": "Grand Junction",
+   "board": "GRAND JUNCTION",
+   "state": "CO",
+   "lat": 39.126663,
+   "lon": -108.529387,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "GNV",
+   "city": "Gainesville",
+   "board": "GAINESVILLE",
+   "state": "FL",
+   "lat": 29.6900997162,
+   "lon": -82.2717971802,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "GPT",
+   "city": "Gulfport/Biloxi",
+   "board": "GULFPORT/BILOXI",
+   "state": "MS",
+   "lat": 30.405582,
+   "lon": -89.069836,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "GRB",
+   "city": "Green Bay",
+   "board": "GREEN BAY",
+   "state": "WI",
+   "lat": 44.483459,
+   "lon": -88.130805,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "GRI",
+   "city": "Grand Island",
+   "board": "GRAND ISLAND",
+   "state": "NE",
+   "lat": 40.967498779296875,
+   "lon": -98.30960083007812,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "GRK",
+   "city": "Killeen",
+   "board": "KILLEEN",
+   "state": "TX",
+   "lat": 31.0672,
+   "lon": -97.828903,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "GRR",
+   "city": "Grand Rapids",
+   "board": "GRAND RAPIDS",
+   "state": "MI",
+   "lat": 42.880798,
+   "lon": -85.522797,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "GSO",
+   "city": "Greensboro/High Point",
+   "board": "GREENSBORO/HIGH PO",
+   "state": "NC",
+   "lat": 36.09937,
+   "lon": -79.937262,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "GSP",
+   "city": "Greer",
+   "board": "GREER",
+   "state": "SC",
+   "lat": 34.895699,
+   "lon": -82.218903,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "GST",
+   "city": "Gustavus",
+   "board": "GUSTAVUS",
+   "state": "AK",
+   "lat": 58.4253006,
+   "lon": -135.7070007,
+   "tz": "America/Juneau"
+  },
+  {
+   "code": "GTF",
+   "city": "Great Falls",
+   "board": "GREAT FALLS",
+   "state": "MT",
+   "lat": 47.481998,
+   "lon": -111.371002,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "GTR",
+   "city": "Columbus",
+   "board": "COLUMBUS",
+   "state": "MS",
+   "lat": 33.450298,
+   "lon": -88.5914,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "GUC",
+   "city": "Gunnison",
+   "board": "GUNNISON",
+   "state": "CO",
+   "lat": 38.534672,
+   "lon": -106.934566,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "GUF",
+   "city": "Gulf Shores",
+   "board": "GULF SHORES",
+   "state": "AL",
+   "lat": 30.290501,
+   "lon": -87.671799,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "GUM",
+   "city": "Guam",
+   "board": "GUAM",
+   "state": "TT",
+   "lat": 13.485,
+   "lon": 144.797282,
+   "tz": "Pacific/Guam"
+  },
+  {
+   "code": "HDN",
+   "city": "Hayden",
+   "board": "HAYDEN",
+   "state": "CO",
+   "lat": 40.481201,
+   "lon": -107.218002,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "HGR",
+   "city": "Hagerstown",
+   "board": "HAGERSTOWN",
+   "state": "MD",
+   "lat": 39.708771,
+   "lon": -77.728014,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "HHH",
+   "city": "Hilton Head",
+   "board": "HILTON HEAD",
+   "state": "SC",
+   "lat": 32.2244,
+   "lon": -80.697502,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "HIB",
+   "city": "Hibbing",
+   "board": "HIBBING",
+   "state": "MN",
+   "lat": 47.384831,
+   "lon": -92.836905,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "HLN",
+   "city": "Helena",
+   "board": "HELENA",
+   "state": "MT",
+   "lat": 46.6068,
+   "lon": -111.983002,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "HNL",
+   "city": "Honolulu",
+   "board": "HONOLULU",
+   "state": "HI",
+   "lat": 21.318387,
+   "lon": -157.92567,
+   "tz": "Pacific/Honolulu"
+  },
+  {
+   "code": "HOB",
+   "city": "Hobbs",
+   "board": "HOBBS",
+   "state": "NM",
+   "lat": 32.6875,
+   "lon": -103.217003,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "HOU",
+   "city": "Houston",
+   "board": "HOUSTON",
+   "state": "TX",
+   "lat": 29.645336,
+   "lon": -95.276812,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "HPN",
+   "city": "White Plains",
+   "board": "WHITE PLAINS",
+   "state": "NY",
+   "lat": 41.06700134277344,
+   "lon": -73.70760345458984,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "HRL",
+   "city": "Harlingen/San Benito",
+   "board": "HARLINGEN/SAN BENI",
+   "state": "TX",
+   "lat": 26.228500366210938,
+   "lon": -97.65440368652344,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "HSV",
+   "city": "Huntsville",
+   "board": "HUNTSVILLE",
+   "state": "AL",
+   "lat": 34.636244,
+   "lon": -86.774378,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "HTS",
+   "city": "Ashland",
+   "board": "ASHLAND",
+   "state": "WV",
+   "lat": 38.366699,
+   "lon": -82.557999,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "HYA",
+   "city": "Hyannis",
+   "board": "HYANNIS",
+   "state": "MA",
+   "lat": 41.6693,
+   "lon": -70.280403,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "HYS",
+   "city": "Hays",
+   "board": "HAYS",
+   "state": "KS",
+   "lat": 38.844521,
+   "lon": -99.273148,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "IAD",
+   "city": "Washington",
+   "board": "WASHINGTON",
+   "state": "VA",
+   "lat": 38.9445,
+   "lon": -77.455803,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "IAG",
+   "city": "Niagara Falls",
+   "board": "NIAGARA FALLS",
+   "state": "NY",
+   "lat": 43.1073,
+   "lon": -78.946198,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "IAH",
+   "city": "Houston",
+   "board": "HOUSTON",
+   "state": "TX",
+   "lat": 29.9844,
+   "lon": -95.3414,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "ICT",
+   "city": "Wichita",
+   "board": "WICHITA",
+   "state": "KS",
+   "lat": 37.650314,
+   "lon": -97.428583,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "IDA",
+   "city": "Idaho Falls",
+   "board": "IDAHO FALLS",
+   "state": "ID",
+   "lat": 43.514599,
+   "lon": -112.070999,
+   "tz": "America/Boise"
+  },
+  {
+   "code": "ILM",
+   "city": "Wilmington",
+   "board": "WILMINGTON",
+   "state": "NC",
+   "lat": 34.272345,
+   "lon": -77.905117,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "IMT",
+   "city": "Iron Mountain/Kingsfd",
+   "board": "IRON MOUNTAIN/KING",
+   "state": "MI",
+   "lat": 45.81911,
+   "lon": -88.114557,
+   "tz": "America/Menominee"
+  },
+  {
+   "code": "IND",
+   "city": "Indianapolis",
+   "board": "INDIANAPOLIS",
+   "state": "IN",
+   "lat": 39.7173,
+   "lon": -86.294403,
+   "tz": "America/Indiana/Indianapolis"
+  },
+  {
+   "code": "INL",
+   "city": "International Falls",
+   "board": "INTERNATIONAL FALL",
+   "state": "MN",
+   "lat": 48.566200256347656,
+   "lon": -93.4030990600586,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "ISP",
+   "city": "Islip",
+   "board": "ISLIP",
+   "state": "NY",
+   "lat": 40.796324,
+   "lon": -73.101703,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ITH",
+   "city": "Ithaca/Cortland",
+   "board": "ITHACA/CORTLAND",
+   "state": "NY",
+   "lat": 42.49100112915039,
+   "lon": -76.4583969116211,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ITO",
+   "city": "Hilo",
+   "board": "HILO",
+   "state": "HI",
+   "lat": 19.72135,
+   "lon": -155.045428,
+   "tz": "Pacific/Honolulu"
+  },
+  {
+   "code": "JAC",
+   "city": "Jackson",
+   "board": "JACKSON",
+   "state": "WY",
+   "lat": 43.6073,
+   "lon": -110.737999,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "JAN",
+   "city": "Jackson/Vicksburg",
+   "board": "JACKSON/VICKSBURG",
+   "state": "MS",
+   "lat": 32.311199,
+   "lon": -90.075897,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "JAX",
+   "city": "Jacksonville",
+   "board": "JACKSONVILLE",
+   "state": "FL",
+   "lat": 30.492469,
+   "lon": -81.687813,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "JFK",
+   "city": "New York",
+   "board": "NEW YORK",
+   "state": "NY",
+   "lat": 40.639447,
+   "lon": -73.779317,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "JLN",
+   "city": "Joplin",
+   "board": "JOPLIN",
+   "state": "MO",
+   "lat": 37.151798,
+   "lon": -94.498299,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "JMS",
+   "city": "Jamestown",
+   "board": "JAMESTOWN",
+   "state": "ND",
+   "lat": 46.92969894,
+   "lon": -98.67819977,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "JNU",
+   "city": "Juneau",
+   "board": "JUNEAU",
+   "state": "AK",
+   "lat": 58.354935,
+   "lon": -134.574416,
+   "tz": "America/Juneau"
+  },
+  {
+   "code": "JST",
+   "city": "Johnstown",
+   "board": "JOHNSTOWN",
+   "state": "PA",
+   "lat": 40.31610107421875,
+   "lon": -78.83390045166016,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "KOA",
+   "city": "Kona",
+   "board": "KONA",
+   "state": "HI",
+   "lat": 19.738783,
+   "lon": -156.045603,
+   "tz": "Pacific/Honolulu"
+  },
+  {
+   "code": "KTN",
+   "city": "Ketchikan",
+   "board": "KETCHIKAN",
+   "state": "AK",
+   "lat": 55.35559845,
+   "lon": -131.7140045,
+   "tz": "America/Sitka"
+  },
+  {
+   "code": "LAF",
+   "city": "Lafayette",
+   "board": "LAFAYETTE",
+   "state": "IN",
+   "lat": 40.412875,
+   "lon": -86.939363,
+   "tz": "America/Indiana/Indianapolis"
+  },
+  {
+   "code": "LAN",
+   "city": "Lansing",
+   "board": "LANSING",
+   "state": "MI",
+   "lat": 42.777582,
+   "lon": -84.585721,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "LAR",
+   "city": "Laramie",
+   "board": "LARAMIE",
+   "state": "WY",
+   "lat": 41.31209945678711,
+   "lon": -105.67500305175781,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "LAS",
+   "city": "Las Vegas",
+   "board": "LAS VEGAS",
+   "state": "NV",
+   "lat": 36.083361,
+   "lon": -115.151817,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "LAW",
+   "city": "Lawton/Fort Sill",
+   "board": "LAWTON/FORT SILL",
+   "state": "OK",
+   "lat": 34.567699,
+   "lon": -98.416603,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "LAX",
+   "city": "Los Angeles",
+   "board": "LOS ANGELES",
+   "state": "CA",
+   "lat": 33.942501,
+   "lon": -118.407997,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "LBB",
+   "city": "Lubbock",
+   "board": "LUBBOCK",
+   "state": "TX",
+   "lat": 33.663601,
+   "lon": -101.822998,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "LBE",
+   "city": "Latrobe",
+   "board": "LATROBE",
+   "state": "PA",
+   "lat": 40.275902,
+   "lon": -79.4048,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "LBF",
+   "city": "North Platte",
+   "board": "NORTH PLATTE",
+   "state": "NE",
+   "lat": 41.12620163,
+   "lon": -100.6839981,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "LBL",
+   "city": "Liberal",
+   "board": "LIBERAL",
+   "state": "KS",
+   "lat": 37.0442009,
+   "lon": -100.9599991,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "LCH",
+   "city": "Lake Charles",
+   "board": "LAKE CHARLES",
+   "state": "LA",
+   "lat": 30.126100540161133,
+   "lon": -93.22329711914062,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "LCK",
+   "city": "Columbus",
+   "board": "COLUMBUS",
+   "state": "OH",
+   "lat": 39.813801,
+   "lon": -82.927803,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "LEX",
+   "city": "Lexington",
+   "board": "LEXINGTON",
+   "state": "KY",
+   "lat": 38.035066,
+   "lon": -84.606738,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "LFT",
+   "city": "Lafayette",
+   "board": "LAFAYETTE",
+   "state": "LA",
+   "lat": 30.205299,
+   "lon": -91.987602,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "LGA",
+   "city": "New York",
+   "board": "NEW YORK",
+   "state": "NY",
+   "lat": 40.777199,
+   "lon": -73.872597,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "LGB",
+   "city": "Long Beach",
+   "board": "LONG BEACH",
+   "state": "CA",
+   "lat": 33.816523,
+   "lon": -118.149891,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "LIH",
+   "city": "Lihue",
+   "board": "LIHUE",
+   "state": "HI",
+   "lat": 21.974393,
+   "lon": -159.337146,
+   "tz": "Pacific/Honolulu"
+  },
+  {
+   "code": "LIT",
+   "city": "Little Rock",
+   "board": "LITTLE ROCK",
+   "state": "AR",
+   "lat": 34.729222,
+   "lon": -92.223591,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "LNK",
+   "city": "Lincoln",
+   "board": "LINCOLN",
+   "state": "NE",
+   "lat": 40.844882,
+   "lon": -96.76178,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "LRD",
+   "city": "Laredo",
+   "board": "LAREDO",
+   "state": "TX",
+   "lat": 27.5438,
+   "lon": -99.461601,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "LSE",
+   "city": "La Crosse",
+   "board": "LA CROSSE",
+   "state": "WI",
+   "lat": 43.879002,
+   "lon": -91.256699,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "LWS",
+   "city": "Lewiston",
+   "board": "LEWISTON",
+   "state": "ID",
+   "lat": 46.3745002746582,
+   "lon": -117.01499938964844,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "MAF",
+   "city": "Midland/Odessa",
+   "board": "MIDLAND/ODESSA",
+   "state": "TX",
+   "lat": 31.942499,
+   "lon": -102.202003,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MBS",
+   "city": "Saginaw/Bay City/Midland",
+   "board": "SAGINAW/BAY CITY/M",
+   "state": "MI",
+   "lat": 43.533181,
+   "lon": -84.083104,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "MCI",
+   "city": "Kansas City",
+   "board": "KANSAS CITY",
+   "state": "MO",
+   "lat": 39.301699,
+   "lon": -94.713893,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MCO",
+   "city": "Orlando",
+   "board": "ORLANDO",
+   "state": "FL",
+   "lat": 28.429399490356445,
+   "lon": -81.30899810791016,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "MCW",
+   "city": "Mason City",
+   "board": "MASON CITY",
+   "state": "IA",
+   "lat": 43.159801,
+   "lon": -93.329716,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MDT",
+   "city": "Harrisburg",
+   "board": "HARRISBURG",
+   "state": "PA",
+   "lat": 40.192838,
+   "lon": -76.762333,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "MDW",
+   "city": "Chicago",
+   "board": "CHICAGO",
+   "state": "IL",
+   "lat": 41.785999,
+   "lon": -87.752403,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MEI",
+   "city": "Meridian",
+   "board": "MERIDIAN",
+   "state": "MS",
+   "lat": 32.3326,
+   "lon": -88.7519,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MEM",
+   "city": "Memphis",
+   "board": "MEMPHIS",
+   "state": "TN",
+   "lat": 35.043845,
+   "lon": -89.97634,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MFE",
+   "city": "Mission/McAllen/Edinburg",
+   "board": "MISSION/MCALLEN/ED",
+   "state": "TX",
+   "lat": 26.176141,
+   "lon": -98.237965,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MFR",
+   "city": "Medford",
+   "board": "MEDFORD",
+   "state": "OR",
+   "lat": 42.374199,
+   "lon": -122.873001,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "MGM",
+   "city": "Montgomery",
+   "board": "MONTGOMERY",
+   "state": "AL",
+   "lat": 32.300598,
+   "lon": -86.393997,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MGW",
+   "city": "Morgantown",
+   "board": "MORGANTOWN",
+   "state": "WV",
+   "lat": 39.643305,
+   "lon": -79.917598,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "MHK",
+   "city": "Manhattan/Ft. Riley",
+   "board": "MANHATTAN/FT. RILE",
+   "state": "KS",
+   "lat": 39.14099884033203,
+   "lon": -96.6707992553711,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MHT",
+   "city": "Manchester",
+   "board": "MANCHESTER",
+   "state": "NH",
+   "lat": 42.932598,
+   "lon": -71.435699,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "MIA",
+   "city": "Miami",
+   "board": "MIAMI",
+   "state": "FL",
+   "lat": 25.796011,
+   "lon": -80.289751,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "MKE",
+   "city": "Milwaukee",
+   "board": "MILWAUKEE",
+   "state": "WI",
+   "lat": 42.947201,
+   "lon": -87.896599,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MLB",
+   "city": "Melbourne",
+   "board": "MELBOURNE",
+   "state": "FL",
+   "lat": 28.102009,
+   "lon": -80.641088,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "MLI",
+   "city": "Moline",
+   "board": "MOLINE",
+   "state": "IL",
+   "lat": 41.448502,
+   "lon": -90.5075,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MLU",
+   "city": "Monroe",
+   "board": "MONROE",
+   "state": "LA",
+   "lat": 32.510899,
+   "lon": -92.037697,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MOB",
+   "city": "Mobile",
+   "board": "MOBILE",
+   "state": "AL",
+   "lat": 30.6912,
+   "lon": -88.242798,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MOT",
+   "city": "Minot",
+   "board": "MINOT",
+   "state": "ND",
+   "lat": 48.25801,
+   "lon": -101.279123,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MQT",
+   "city": "Marquette",
+   "board": "MARQUETTE",
+   "state": "MI",
+   "lat": 46.351498,
+   "lon": -87.395884,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "MRY",
+   "city": "Monterey",
+   "board": "MONTEREY",
+   "state": "CA",
+   "lat": 36.586777,
+   "lon": -121.844183,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "MSN",
+   "city": "Madison",
+   "board": "MADISON",
+   "state": "WI",
+   "lat": 43.1399,
+   "lon": -89.337502,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MSO",
+   "city": "Missoula",
+   "board": "MISSOULA",
+   "state": "MT",
+   "lat": 46.915816,
+   "lon": -114.091107,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "MSP",
+   "city": "Minneapolis",
+   "board": "MINNEAPOLIS",
+   "state": "MN",
+   "lat": 44.880081,
+   "lon": -93.221741,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MSY",
+   "city": "New Orleans",
+   "board": "NEW ORLEANS",
+   "state": "LA",
+   "lat": 29.993401,
+   "lon": -90.264673,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "MTJ",
+   "city": "Montrose/Delta",
+   "board": "MONTROSE/DELTA",
+   "state": "CO",
+   "lat": 38.5098,
+   "lon": -107.893997,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "MVY",
+   "city": "Martha's Vineyard",
+   "board": "MARTHA'S VINEYARD",
+   "state": "MA",
+   "lat": 41.3931007385,
+   "lon": -70.6143035889,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "MYR",
+   "city": "Myrtle Beach",
+   "board": "MYRTLE BEACH",
+   "state": "SC",
+   "lat": 33.679699,
+   "lon": -78.928299,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "OAJ",
+   "city": "Jacksonville/Camp Lejeune",
+   "board": "JACKSONVILLE/CAMP ",
+   "state": "NC",
+   "lat": 34.829201,
+   "lon": -77.612099,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "OAK",
+   "city": "Oakland",
+   "board": "OAKLAND",
+   "state": "CA",
+   "lat": 37.720085,
+   "lon": -122.221184,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "OGG",
+   "city": "Kahului",
+   "board": "KAHULUI",
+   "state": "HI",
+   "lat": 20.896263,
+   "lon": -156.431837,
+   "tz": "Pacific/Honolulu"
+  },
+  {
+   "code": "OKC",
+   "city": "Oklahoma City",
+   "board": "OKLAHOMA CITY",
+   "state": "OK",
+   "lat": 35.393388,
+   "lon": -97.598248,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "OMA",
+   "city": "Omaha",
+   "board": "OMAHA",
+   "state": "NE",
+   "lat": 41.3032,
+   "lon": -95.894096,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "OME",
+   "city": "Nome",
+   "board": "NOME",
+   "state": "AK",
+   "lat": 64.51219940185547,
+   "lon": -165.44500732421875,
+   "tz": "America/Nome"
+  },
+  {
+   "code": "ONT",
+   "city": "Ontario",
+   "board": "ONTARIO",
+   "state": "CA",
+   "lat": 34.056,
+   "lon": -117.600998,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "ORD",
+   "city": "Chicago",
+   "board": "CHICAGO",
+   "state": "IL",
+   "lat": 41.9786,
+   "lon": -87.9048,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "ORF",
+   "city": "Norfolk",
+   "board": "NORFOLK",
+   "state": "VA",
+   "lat": 36.895341,
+   "lon": -76.201,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ORH",
+   "city": "Worcester",
+   "board": "WORCESTER",
+   "state": "MA",
+   "lat": 42.2673,
+   "lon": -71.875702,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "OTH",
+   "city": "North Bend/Coos Bay",
+   "board": "NORTH BEND/COOS BA",
+   "state": "OR",
+   "lat": 43.41709899902344,
+   "lon": -124.24600219726562,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "OTZ",
+   "city": "Kotzebue",
+   "board": "KOTZEBUE",
+   "state": "AK",
+   "lat": 66.88469696,
+   "lon": -162.598999,
+   "tz": "America/Nome"
+  },
+  {
+   "code": "OWB",
+   "city": "Owensboro",
+   "board": "OWENSBORO",
+   "state": "KY",
+   "lat": 37.74010086,
+   "lon": -87.16680145,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "PAE",
+   "city": "Everett",
+   "board": "EVERETT",
+   "state": "WA",
+   "lat": 47.9063,
+   "lon": -122.281998,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "PBG",
+   "city": "Plattsburgh",
+   "board": "PLATTSBURGH",
+   "state": "NY",
+   "lat": 44.650902,
+   "lon": -73.468102,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PBI",
+   "city": "West Palm Beach/Palm Beach",
+   "board": "WEST PALM BEACH/PA",
+   "state": "FL",
+   "lat": 26.6832,
+   "lon": -80.0956,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PDX",
+   "city": "Portland",
+   "board": "PORTLAND",
+   "state": "OR",
+   "lat": 45.588699,
+   "lon": -122.598,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "PGD",
+   "city": "Punta Gorda",
+   "board": "PUNTA GORDA",
+   "state": "FL",
+   "lat": 26.9202,
+   "lon": -81.990501,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PGV",
+   "city": "Greenville",
+   "board": "GREENVILLE",
+   "state": "NC",
+   "lat": 35.635535,
+   "lon": -77.384262,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PHF",
+   "city": "Newport News/Williamsburg",
+   "board": "NEWPORT NEWS/WILLI",
+   "state": "VA",
+   "lat": 37.131901,
+   "lon": -76.492996,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PHL",
+   "city": "Philadelphia",
+   "board": "PHILADELPHIA",
+   "state": "PA",
+   "lat": 39.871899,
+   "lon": -75.241096,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PHX",
+   "city": "Phoenix",
+   "board": "PHOENIX",
+   "state": "AZ",
+   "lat": 33.435302,
+   "lon": -112.005905,
+   "tz": "America/Phoenix"
+  },
+  {
+   "code": "PIA",
+   "city": "Peoria",
+   "board": "PEORIA",
+   "state": "IL",
+   "lat": 40.663841,
+   "lon": -89.692631,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "PIB",
+   "city": "Hattiesburg/Laurel",
+   "board": "HATTIESBURG/LAUREL",
+   "state": "MS",
+   "lat": 31.4671,
+   "lon": -89.337097,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "PIE",
+   "city": "St. Petersburg",
+   "board": "ST. PETERSBURG",
+   "state": "FL",
+   "lat": 27.9102,
+   "lon": -82.687401,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PIH",
+   "city": "Pocatello",
+   "board": "POCATELLO",
+   "state": "ID",
+   "lat": 42.9098014831543,
+   "lon": -112.59600067138672,
+   "tz": "America/Boise"
+  },
+  {
+   "code": "PIR",
+   "city": "Pierre",
+   "board": "PIERRE",
+   "state": "SD",
+   "lat": 44.38270187,
+   "lon": -100.2860031,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "PIT",
+   "city": "Pittsburgh",
+   "board": "PITTSBURGH",
+   "state": "PA",
+   "lat": 40.491501,
+   "lon": -80.232903,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PLN",
+   "city": "Pellston",
+   "board": "PELLSTON",
+   "state": "MI",
+   "lat": 45.57089996,
+   "lon": -84.79669952,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "PNS",
+   "city": "Pensacola",
+   "board": "PENSACOLA",
+   "state": "FL",
+   "lat": 30.472718,
+   "lon": -87.186639,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "PPG",
+   "city": "Pago Pago",
+   "board": "PAGO PAGO",
+   "state": "TT",
+   "lat": -14.331,
+   "lon": -170.710007,
+   "tz": "Pacific/Pago_Pago"
+  },
+  {
+   "code": "PQI",
+   "city": "Presque Isle/Houlton",
+   "board": "PRESQUE ISLE/HOULT",
+   "state": "ME",
+   "lat": 46.688999,
+   "lon": -68.0448,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PRC",
+   "city": "Prescott",
+   "board": "PRESCOTT",
+   "state": "AZ",
+   "lat": 34.653502,
+   "lon": -112.419883,
+   "tz": "America/Phoenix"
+  },
+  {
+   "code": "PSC",
+   "city": "Pasco/Kennewick/Richland",
+   "board": "PASCO/KENNEWICK/RI",
+   "state": "WA",
+   "lat": 46.264702,
+   "lon": -119.119003,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "PSE",
+   "city": "Ponce",
+   "board": "PONCE",
+   "state": "PR",
+   "lat": 18.008301,
+   "lon": -66.563004,
+   "tz": "America/Puerto_Rico"
+  },
+  {
+   "code": "PSG",
+   "city": "Petersburg",
+   "board": "PETERSBURG",
+   "state": "AK",
+   "lat": 56.80170059,
+   "lon": -132.9450073,
+   "tz": "America/Sitka"
+  },
+  {
+   "code": "PSM",
+   "city": "Portsmouth",
+   "board": "PORTSMOUTH",
+   "state": "NH",
+   "lat": 43.0779,
+   "lon": -70.823303,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PSP",
+   "city": "Palm Springs",
+   "board": "PALM SPRINGS",
+   "state": "CA",
+   "lat": 33.8297,
+   "lon": -116.507004,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "PUB",
+   "city": "Pueblo",
+   "board": "PUEBLO",
+   "state": "CO",
+   "lat": 38.289101,
+   "lon": -104.497002,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "PVD",
+   "city": "Providence",
+   "board": "PROVIDENCE",
+   "state": "RI",
+   "lat": 41.725038,
+   "lon": -71.425668,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "PVU",
+   "city": "Provo",
+   "board": "PROVO",
+   "state": "UT",
+   "lat": 40.218894,
+   "lon": -111.722445,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "PWM",
+   "city": "Portland",
+   "board": "PORTLAND",
+   "state": "ME",
+   "lat": 43.646198,
+   "lon": -70.309303,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "RAP",
+   "city": "Rapid City",
+   "board": "RAPID CITY",
+   "state": "SD",
+   "lat": 44.0452995300293,
+   "lon": -103.05699920654297,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "RDD",
+   "city": "Redding",
+   "board": "REDDING",
+   "state": "CA",
+   "lat": 40.50899887,
+   "lon": -122.2929993,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "RDM",
+   "city": "Bend/Redmond",
+   "board": "BEND/REDMOND",
+   "state": "OR",
+   "lat": 44.254101,
+   "lon": -121.150002,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "RDU",
+   "city": "Raleigh/Durham",
+   "board": "RALEIGH/DURHAM",
+   "state": "NC",
+   "lat": 35.878659,
+   "lon": -78.7873,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "RFD",
+   "city": "Rockford",
+   "board": "ROCKFORD",
+   "state": "IL",
+   "lat": 42.1954,
+   "lon": -89.097198,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "RHI",
+   "city": "Rhinelander",
+   "board": "RHINELANDER",
+   "state": "WI",
+   "lat": 45.63119888305664,
+   "lon": -89.46749877929688,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "RIC",
+   "city": "Richmond",
+   "board": "RICHMOND",
+   "state": "VA",
+   "lat": 37.505199,
+   "lon": -77.319702,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "RIW",
+   "city": "Riverton/Lander",
+   "board": "RIVERTON/LANDER",
+   "state": "WY",
+   "lat": 43.064201,
+   "lon": -108.459999,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "RKS",
+   "city": "Rock Springs",
+   "board": "ROCK SPRINGS",
+   "state": "WY",
+   "lat": 41.5942,
+   "lon": -109.065001,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "RNO",
+   "city": "Reno",
+   "board": "RENO",
+   "state": "NV",
+   "lat": 39.4991,
+   "lon": -119.767998,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "ROA",
+   "city": "Roanoke",
+   "board": "ROANOKE",
+   "state": "VA",
+   "lat": 37.3255,
+   "lon": -79.975403,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ROC",
+   "city": "Rochester",
+   "board": "ROCHESTER",
+   "state": "NY",
+   "lat": 43.1189,
+   "lon": -77.672401,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "ROW",
+   "city": "Roswell",
+   "board": "ROSWELL",
+   "state": "NM",
+   "lat": 33.301601,
+   "lon": -104.530998,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "RST",
+   "city": "Rochester",
+   "board": "ROCHESTER",
+   "state": "MN",
+   "lat": 43.908298,
+   "lon": -92.5,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "RSW",
+   "city": "Fort Myers",
+   "board": "FORT MYERS",
+   "state": "FL",
+   "lat": 26.534685,
+   "lon": -81.752816,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "SAF",
+   "city": "Santa Fe",
+   "board": "SANTA FE",
+   "state": "NM",
+   "lat": 35.6171,
+   "lon": -106.088997,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "SAN",
+   "city": "San Diego",
+   "board": "SAN DIEGO",
+   "state": "CA",
+   "lat": 32.733601,
+   "lon": -117.190002,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "SAT",
+   "city": "San Antonio",
+   "board": "SAN ANTONIO",
+   "state": "TX",
+   "lat": 29.533701,
+   "lon": -98.469803,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "SAV",
+   "city": "Savannah",
+   "board": "SAVANNAH",
+   "state": "GA",
+   "lat": 32.126591,
+   "lon": -81.19998,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "SBA",
+   "city": "Santa Barbara",
+   "board": "SANTA BARBARA",
+   "state": "CA",
+   "lat": 34.426201,
+   "lon": -119.839996,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "SBN",
+   "city": "South Bend",
+   "board": "SOUTH BEND",
+   "state": "IN",
+   "lat": 41.708304,
+   "lon": -86.316922,
+   "tz": "America/Indiana/Indianapolis"
+  },
+  {
+   "code": "SBP",
+   "city": "San Luis Obispo",
+   "board": "SAN LUIS OBISPO",
+   "state": "CA",
+   "lat": 35.236801147499996,
+   "lon": -120.641998291,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "SCC",
+   "city": "Deadhorse",
+   "board": "DEADHORSE",
+   "state": "AK",
+   "lat": 70.19470215,
+   "lon": -148.4649963,
+   "tz": "America/Anchorage"
+  },
+  {
+   "code": "SCE",
+   "city": "State College",
+   "board": "STATE COLLEGE",
+   "state": "PA",
+   "lat": 40.849374,
+   "lon": -77.84852,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "SCK",
+   "city": "Stockton",
+   "board": "STOCKTON",
+   "state": "CA",
+   "lat": 37.893279,
+   "lon": -121.238079,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "SDF",
+   "city": "Louisville",
+   "board": "LOUISVILLE",
+   "state": "KY",
+   "lat": 38.1706,
+   "lon": -85.735076,
+   "tz": "America/Kentucky/Louisville"
+  },
+  {
+   "code": "SEA",
+   "city": "Seattle",
+   "board": "SEATTLE",
+   "state": "WA",
+   "lat": 47.447943,
+   "lon": -122.310276,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "SFB",
+   "city": "Sanford",
+   "board": "SANFORD",
+   "state": "FL",
+   "lat": 28.774277,
+   "lon": -81.234626,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "SFO",
+   "city": "San Francisco",
+   "board": "SAN FRANCISCO",
+   "state": "CA",
+   "lat": 37.619806,
+   "lon": -122.374821,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "SGF",
+   "city": "Springfield",
+   "board": "SPRINGFIELD",
+   "state": "MO",
+   "lat": 37.245047,
+   "lon": -93.388596,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "SGU",
+   "city": "St. George",
+   "board": "ST. GEORGE",
+   "state": "UT",
+   "lat": 37.036389,
+   "lon": -113.510306,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "SHR",
+   "city": "Sheridan",
+   "board": "SHERIDAN",
+   "state": "WY",
+   "lat": 44.76919937133789,
+   "lon": -106.9800033569336,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "SHV",
+   "city": "Shreveport",
+   "board": "SHREVEPORT",
+   "state": "LA",
+   "lat": 32.444747,
+   "lon": -93.826741,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "SIT",
+   "city": "Sitka",
+   "board": "SITKA",
+   "state": "AK",
+   "lat": 57.04710006713867,
+   "lon": -135.36199951171875,
+   "tz": "America/Sitka"
+  },
+  {
+   "code": "SJC",
+   "city": "San Jose",
+   "board": "SAN JOSE",
+   "state": "CA",
+   "lat": 37.362452,
+   "lon": -121.929188,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "SJT",
+   "city": "San Angelo",
+   "board": "SAN ANGELO",
+   "state": "TX",
+   "lat": 31.35770034790039,
+   "lon": -100.49600219726562,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "SJU",
+   "city": "San Juan",
+   "board": "SAN JUAN",
+   "state": "PR",
+   "lat": 18.4394,
+   "lon": -66.001801,
+   "tz": "America/Puerto_Rico"
+  },
+  {
+   "code": "SLC",
+   "city": "Salt Lake City",
+   "board": "SALT LAKE CITY",
+   "state": "UT",
+   "lat": 40.78886,
+   "lon": -111.979866,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "SLN",
+   "city": "Salina",
+   "board": "SALINA",
+   "state": "KS",
+   "lat": 38.79100036621094,
+   "lon": -97.6521987915039,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "SMF",
+   "city": "Sacramento",
+   "board": "SACRAMENTO",
+   "state": "CA",
+   "lat": 38.6954,
+   "lon": -121.591003,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "SMX",
+   "city": "Santa Maria",
+   "board": "SANTA MARIA",
+   "state": "CA",
+   "lat": 34.898899,
+   "lon": -120.457001,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "SNA",
+   "city": "Santa Ana",
+   "board": "SANTA ANA",
+   "state": "CA",
+   "lat": 33.675063,
+   "lon": -117.869281,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "SPI",
+   "city": "Springfield",
+   "board": "SPRINGFIELD",
+   "state": "IL",
+   "lat": 39.844101,
+   "lon": -89.677902,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "SPN",
+   "city": "Saipan",
+   "board": "SAIPAN",
+   "state": "TT",
+   "lat": 15.119384,
+   "lon": 145.728848,
+   "tz": "Pacific/Saipan"
+  },
+  {
+   "code": "SPS",
+   "city": "Wichita Falls",
+   "board": "WICHITA FALLS",
+   "state": "TX",
+   "lat": 33.9888,
+   "lon": -98.491898,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "SRQ",
+   "city": "Sarasota/Bradenton",
+   "board": "SARASOTA/BRADENTON",
+   "state": "FL",
+   "lat": 27.394631,
+   "lon": -82.554359,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "STC",
+   "city": "St. Cloud",
+   "board": "ST. CLOUD",
+   "state": "MN",
+   "lat": 45.5466,
+   "lon": -94.059898,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "STL",
+   "city": "St. Louis",
+   "board": "ST. LOUIS",
+   "state": "MO",
+   "lat": 38.748697,
+   "lon": -90.370003,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "STS",
+   "city": "Santa Rosa",
+   "board": "SANTA ROSA",
+   "state": "CA",
+   "lat": 38.50899887,
+   "lon": -122.8130035,
+   "tz": "America/Los_Angeles"
+  },
+  {
+   "code": "STT",
+   "city": "Charlotte Amalie",
+   "board": "CHARLOTTE AMALIE",
+   "state": "VI",
+   "lat": 18.337091,
+   "lon": -64.977251,
+   "tz": "America/St_Thomas"
+  },
+  {
+   "code": "STX",
+   "city": "Christiansted",
+   "board": "CHRISTIANSTED",
+   "state": "VI",
+   "lat": 17.701413,
+   "lon": -64.802608,
+   "tz": "America/St_Thomas"
+  },
+  {
+   "code": "SUN",
+   "city": "Sun Valley/Hailey/Ketchum",
+   "board": "SUN VALLEY/HAILEY/",
+   "state": "ID",
+   "lat": 43.50439835,
+   "lon": -114.2959976,
+   "tz": "America/Boise"
+  },
+  {
+   "code": "SUX",
+   "city": "Sioux City",
+   "board": "SIOUX CITY",
+   "state": "IA",
+   "lat": 42.397605,
+   "lon": -96.382237,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "SWF",
+   "city": "Newburgh/Poughkeepsie",
+   "board": "NEWBURGH/POUGHKEEP",
+   "state": "NY",
+   "lat": 41.50421,
+   "lon": -74.108901,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "SWO",
+   "city": "Stillwater",
+   "board": "STILLWATER",
+   "state": "OK",
+   "lat": 36.162132,
+   "lon": -97.085581,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "SYR",
+   "city": "Syracuse",
+   "board": "SYRACUSE",
+   "state": "NY",
+   "lat": 43.11119842529297,
+   "lon": -76.1063003540039,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "TLH",
+   "city": "Tallahassee",
+   "board": "TALLAHASSEE",
+   "state": "FL",
+   "lat": 30.401209,
+   "lon": -84.35433,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "TOL",
+   "city": "Toledo",
+   "board": "TOLEDO",
+   "state": "OH",
+   "lat": 41.5868,
+   "lon": -83.8078,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "TPA",
+   "city": "Tampa",
+   "board": "TAMPA",
+   "state": "FL",
+   "lat": 27.9755,
+   "lon": -82.533203,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "TRI",
+   "city": "Bristol/Johnson City/Kingsport",
+   "board": "BRISTOL/JOHNSON CI",
+   "state": "TN",
+   "lat": 36.475201,
+   "lon": -82.407401,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "TTN",
+   "city": "Trenton",
+   "board": "TRENTON",
+   "state": "NJ",
+   "lat": 40.276699,
+   "lon": -74.813499,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "TUL",
+   "city": "Tulsa",
+   "board": "TULSA",
+   "state": "OK",
+   "lat": 36.197084,
+   "lon": -95.886225,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "TUS",
+   "city": "Tucson",
+   "board": "TUCSON",
+   "state": "AZ",
+   "lat": 32.115004,
+   "lon": -110.938053,
+   "tz": "America/Phoenix"
+  },
+  {
+   "code": "TVC",
+   "city": "Traverse City",
+   "board": "TRAVERSE CITY",
+   "state": "MI",
+   "lat": 44.741402,
+   "lon": -85.582199,
+   "tz": "America/Detroit"
+  },
+  {
+   "code": "TWF",
+   "city": "Twin Falls",
+   "board": "TWIN FALLS",
+   "state": "ID",
+   "lat": 42.4818,
+   "lon": -114.487999,
+   "tz": "America/Boise"
+  },
+  {
+   "code": "TXK",
+   "city": "Texarkana",
+   "board": "TEXARKANA",
+   "state": "AR",
+   "lat": 33.453701,
+   "lon": -93.990997,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "TYR",
+   "city": "Tyler",
+   "board": "TYLER",
+   "state": "TX",
+   "lat": 32.35409927368164,
+   "lon": -95.40239715576172,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "TYS",
+   "city": "Knoxville",
+   "board": "KNOXVILLE",
+   "state": "TN",
+   "lat": 35.811001,
+   "lon": -83.994003,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "USA",
+   "city": "Concord",
+   "board": "CONCORD",
+   "state": "NC",
+   "lat": 35.387798,
+   "lon": -80.709099,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "VCT",
+   "city": "Victoria",
+   "board": "VICTORIA",
+   "state": "TX",
+   "lat": 28.85260009765625,
+   "lon": -96.91850280761719,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "VEL",
+   "city": "Vernal",
+   "board": "VERNAL",
+   "state": "UT",
+   "lat": 40.436214,
+   "lon": -109.511661,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "VLD",
+   "city": "Valdosta",
+   "board": "VALDOSTA",
+   "state": "GA",
+   "lat": 30.782499313354492,
+   "lon": -83.27670288085938,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "VPS",
+   "city": "Valparaiso",
+   "board": "VALPARAISO",
+   "state": "FL",
+   "lat": 30.481315,
+   "lon": -86.515839,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "VRB",
+   "city": "Vero Beach",
+   "board": "VERO BEACH",
+   "state": "FL",
+   "lat": 27.6556,
+   "lon": -80.417901,
+   "tz": "America/New_York"
+  },
+  {
+   "code": "WRG",
+   "city": "Wrangell",
+   "board": "WRANGELL",
+   "state": "AK",
+   "lat": 56.48429871,
+   "lon": -132.3699951,
+   "tz": "America/Sitka"
+  },
+  {
+   "code": "WYS",
+   "city": "West Yellowstone",
+   "board": "WEST YELLOWSTONE",
+   "state": "MT",
+   "lat": 44.6884,
+   "lon": -111.117996,
+   "tz": "America/Denver"
+  },
+  {
+   "code": "XNA",
+   "city": "Fayetteville",
+   "board": "FAYETTEVILLE",
+   "state": "AR",
+   "lat": 36.281898,
+   "lon": -94.306801,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "XWA",
+   "city": "Williston",
+   "board": "WILLISTON",
+   "state": "ND",
+   "lat": 48.260863,
+   "lon": -103.75116,
+   "tz": "America/Chicago"
+  },
+  {
+   "code": "YAK",
+   "city": "Yakutat",
+   "board": "YAKUTAT",
+   "state": "AK",
+   "lat": 59.508717,
+   "lon": -139.660435,
+   "tz": "America/Yakutat"
+  },
+  {
+   "code": "YUM",
+   "city": "Yuma",
+   "board": "YUMA",
+   "state": "AZ",
+   "lat": 32.650938,
+   "lon": -114.609375,
+   "tz": "America/Phoenix"
+  }
+ ],
+ "airlines": {
+  "9E": "Endeavor Air Inc.",
+  "AA": "American Airlines Network",
+  "AS": "Alaska Airlines Network",
+  "B6": "JetBlue Airways",
+  "C5": "CommuteAir LLC dba CommuteAir",
+  "DL": "Delta Air Lines Network",
+  "F9": "Frontier Airlines",
+  "G4": "Allegiant Air",
+  "G7": "GoJet Airlines LLC d/b/a United Express",
+  "HA": "Hawaiian Airlines Network",
+  "MQ": "Envoy Air",
+  "NK": "Spirit Airlines",
+  "OH": "PSA Airlines Inc.",
+  "OO": "SkyWest Airlines Inc.",
+  "PT": "Piedmont Airlines",
+  "QX": "Horizon Air",
+  "UA": "United Air Lines Network",
+  "WN": "Southwest Airlines",
+  "YV": "Mesa Airlines Inc.",
+  "YX": "Republic Airline",
+  "ZW": "Air Wisconsin Airlines Corp"
+ }
+}
