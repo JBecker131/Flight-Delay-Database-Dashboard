@@ -1,0 +1,177 @@
+{
+  "model": "HistGradientBoostingRegressor",
+  "trees": 446,
+  "test_flights": 411465,
+  "test_rmse": 53.5695,
+  "test_auc_late15": 0.7135,
+  "risk_thresholds": {
+    "medium": 11.545,
+    "high": 21.264
+  },
+  "bins": [
+    {
+      "upper": 2.62,
+      "flights": 20574,
+      "mean_predicted": 1.22,
+      "mean_actual": 4.04,
+      "late15": 0.057,
+      "late60": 0.0159
+    },
+    {
+      "upper": 4.01,
+      "flights": 20573,
+      "mean_predicted": 3.36,
+      "mean_actual": 4.79,
+      "late15": 0.0674,
+      "late60": 0.0185
+    },
+    {
+      "upper": 5.085,
+      "flights": 20573,
+      "mean_predicted": 4.57,
+      "mean_actual": 5.82,
+      "late15": 0.0813,
+      "late60": 0.0231
+    },
+    {
+      "upper": 6.026,
+      "flights": 20573,
+      "mean_predicted": 5.56,
+      "mean_actual": 6.65,
+      "late15": 0.0956,
+      "late60": 0.0261
+    },
+    {
+      "upper": 6.919,
+      "flights": 20573,
+      "mean_predicted": 6.47,
+      "mean_actual": 7.21,
+      "late15": 0.1036,
+      "late60": 0.0288
+    },
+    {
+      "upper": 7.783,
+      "flights": 20574,
+      "mean_predicted": 7.35,
+      "mean_actual": 8.75,
+      "late15": 0.1186,
+      "late60": 0.0349
+    },
+    {
+      "upper": 8.659,
+      "flights": 20573,
+      "mean_predicted": 8.22,
+      "mean_actual": 9.23,
+      "late15": 0.128,
+      "late60": 0.036
+    },
+    {
+      "upper": 9.565,
+      "flights": 20573,
+      "mean_predicted": 9.11,
+      "mean_actual": 9.47,
+      "late15": 0.1404,
+      "late60": 0.0409
+    },
+    {
+      "upper": 10.525,
+      "flights": 20573,
+      "mean_predicted": 10.04,
+      "mean_actual": 10.38,
+      "late15": 0.15,
+      "late60": 0.0425
+    },
+    {
+      "upper": 11.545,
+      "flights": 20573,
+      "mean_predicted": 11.03,
+      "mean_actual": 11.53,
+      "late15": 0.1626,
+      "late60": 0.0491
+    },
+    {
+      "upper": 12.65,
+      "flights": 20574,
+      "mean_predicted": 12.09,
+      "mean_actual": 12.13,
+      "late15": 0.1723,
+      "late60": 0.0492
+    },
+    {
+      "upper": 13.886,
+      "flights": 20573,
+      "mean_predicted": 13.25,
+      "mean_actual": 13.63,
+      "late15": 0.1948,
+      "late60": 0.0585
+    },
+    {
+      "upper": 15.271,
+      "flights": 20573,
+      "mean_predicted": 14.57,
+      "mean_actual": 14.07,
+      "late15": 0.2124,
+      "late60": 0.0607
+    },
+    {
+      "upper": 16.906,
+      "flights": 20573,
+      "mean_predicted": 16.06,
+      "mean_actual": 16.08,
+      "late15": 0.2369,
+      "late60": 0.071
+    },
+    {
+      "upper": 18.84,
+      "flights": 20573,
+      "mean_predicted": 17.84,
+      "mean_actual": 17.34,
+      "late15": 0.2532,
+      "late60": 0.078
+    },
+    {
+      "upper": 21.264,
+      "flights": 20574,
+      "mean_predicted": 20.0,
+      "mean_actual": 20.66,
+      "late15": 0.2889,
+      "late60": 0.0955
+    },
+    {
+      "upper": 24.513,
+      "flights": 20573,
+      "mean_predicted": 22.79,
+      "mean_actual": 23.15,
+      "late15": 0.3238,
+      "late60": 0.1102
+    },
+    {
+      "upper": 29.355,
+      "flights": 20573,
+      "mean_predicted": 26.76,
+      "mean_actual": 27.71,
+      "late15": 0.3669,
+      "late60": 0.133
+    },
+    {
+      "upper": 38.079,
+      "flights": 20573,
+      "mean_predicted": 33.15,
+      "mean_actual": 34.98,
+      "late15": 0.4334,
+      "late60": 0.1785
+    },
+    {
+      "upper": null,
+      "flights": 20574,
+      "mean_predicted": 51.68,
+      "mean_actual": 62.39,
+      "late15": 0.5885,
+      "late60": 0.3208
+    }
+  ],
+  "elapsed_fit": {
+    "intercept": 47.123,
+    "per_mile": 0.11947
+  }
+}

@@ -1,0 +1,1812 @@
+{
+"ABE": [
+40.651773,
+-75.442797,
+"America/New_York"
+],
+"ABI": [
+32.4113006592,
+-99.68190002440001,
+"America/Chicago"
+],
+"ABQ": [
+35.039976,
+-106.608925,
+"America/Denver"
+],
+"ABR": [
+45.449100494384766,
+-98.42179870605469,
+"America/Chicago"
+],
+"ABY": [
+31.532946,
+-84.196215,
+"America/New_York"
+],
+"ACK": [
+41.25310135,
+-70.06020355,
+"America/New_York"
+],
+"ACT": [
+31.611299514770508,
+-97.23049926757812,
+"America/Chicago"
+],
+"ACV": [
+40.978101,
+-124.109,
+"America/Los_Angeles"
+],
+"ACY": [
+39.456201,
+-74.577511,
+"America/New_York"
+],
+"ADK": [
+51.883564,
+-176.642783,
+"America/Adak"
+],
+"ADQ": [
+57.75,
+-152.4940033,
+"America/Anchorage"
+],
+"AEX": [
+31.325828,
+-92.546702,
+"America/Chicago"
+],
+"AGS": [
+33.3699,
+-81.9645,
+"America/New_York"
+],
+"AKN": [
+58.677845,
+-156.651965,
+"America/Anchorage"
+],
+"ALB": [
+42.748299,
+-73.801697,
+"America/New_York"
+],
+"ALO": [
+42.557098388671875,
+-92.40029907226562,
+"America/Chicago"
+],
+"ALW": [
+46.09489822,
+-118.288002,
+"America/Los_Angeles"
+],
+"AMA": [
+35.217857,
+-101.706444,
+"America/Chicago"
+],
+"ANC": [
+61.179004,
+-149.992561,
+"America/Anchorage"
+],
+"APN": [
+45.0780983,
+-83.56030273,
+"America/Detroit"
+],
+"ASE": [
+39.223202,
+-106.869003,
+"America/Denver"
+],
+"ATL": [
+33.6367,
+-84.428101,
+"America/New_York"
+],
+"ATW": [
+44.258515,
+-88.519,
+"America/Chicago"
+],
+"ATY": [
+44.91400146,
+-97.15470123,
+"America/Chicago"
+],
+"AUS": [
+30.197535,
+-97.662015,
+"America/Chicago"
+],
+"AVL": [
+35.435488,
+-82.541853,
+"America/New_York"
+],
+"AVP": [
+41.337064,
+-75.724232,
+"America/New_York"
+],
+"AZA": [
+33.3078,
+-111.654999,
+"America/Phoenix"
+],
+"AZO": [
+42.232105,
+-85.549637,
+"America/Detroit"
+],
+"BDL": [
+41.938555,
+-72.688016,
+"America/New_York"
+],
+"BET": [
+60.77980042,
+-161.8379974,
+"America/Anchorage"
+],
+"BFF": [
+41.87400055,
+-103.5960007,
+"America/Denver"
+],
+"BFL": [
+35.433601,
+-119.056999,
+"America/Los_Angeles"
+],
+"BGM": [
+42.20869827,
+-75.97979736,
+"America/New_York"
+],
+"BGR": [
+44.806364,
+-68.826668,
+"America/New_York"
+],
+"BHM": [
+33.562877,
+-86.750712,
+"America/Chicago"
+],
+"BIH": [
+37.3731,
+-118.363998,
+"America/Los_Angeles"
+],
+"BIL": [
+45.808932,
+-108.541242,
+"America/Denver"
+],
+"BIS": [
+46.772734,
+-100.746874,
+"America/Chicago"
+],
+"BJI": [
+47.50939941,
+-94.93370056,
+"America/Chicago"
+],
+"BLI": [
+48.79280090332031,
+-122.53800201416016,
+"America/Los_Angeles"
+],
+"BLV": [
+38.5452,
+-89.835197,
+"America/Chicago"
+],
+"BMI": [
+40.4771,
+-88.915901,
+"America/Chicago"
+],
+"BNA": [
+36.1245,
+-86.6782,
+"America/Chicago"
+],
+"BOI": [
+43.5644,
+-116.223,
+"America/Boise"
+],
+"BOS": [
+42.36197,
+-71.0079,
+"America/New_York"
+],
+"BPT": [
+29.9508,
+-94.020699,
+"America/Chicago"
+],
+"BQK": [
+31.258801,
+-81.466499,
+"America/New_York"
+],
+"BQN": [
+18.4949,
+-67.129402,
+"America/Puerto_Rico"
+],
+"BRD": [
+46.402861,
+-94.129727,
+"America/Chicago"
+],
+"BRO": [
+25.907238,
+-97.425235,
+"America/Chicago"
+],
+"BRW": [
+71.285402,
+-156.766008,
+"America/Anchorage"
+],
+"BTM": [
+45.95479965209961,
+-112.49700164794922,
+"America/Denver"
+],
+"BTR": [
+30.533199,
+-91.149597,
+"America/Chicago"
+],
+"BTV": [
+44.471901,
+-73.153297,
+"America/New_York"
+],
+"BUF": [
+42.940498,
+-78.732201,
+"America/New_York"
+],
+"BUR": [
+34.202834,
+-118.35805,
+"America/Los_Angeles"
+],
+"BWI": [
+39.1754,
+-76.668297,
+"America/New_York"
+],
+"BZN": [
+45.778853,
+-111.153711,
+"America/Denver"
+],
+"CAE": [
+33.938172,
+-81.123022,
+"America/New_York"
+],
+"CAK": [
+40.916099548339844,
+-81.44219970703125,
+"America/New_York"
+],
+"CDC": [
+37.70100021362305,
+-113.0989990234375,
+"America/Denver"
+],
+"CDV": [
+60.491798,
+-145.477997,
+"America/Anchorage"
+],
+"CHA": [
+35.035301,
+-85.203796,
+"America/New_York"
+],
+"CHO": [
+38.13859939575195,
+-78.4529037475586,
+"America/New_York"
+],
+"CHS": [
+32.896159,
+-80.038151,
+"America/New_York"
+],
+"CID": [
+41.884701,
+-91.7108,
+"America/Chicago"
+],
+"CIU": [
+46.242038,
+-84.462082,
+"America/Detroit"
+],
+"CKB": [
+39.2966,
+-80.228104,
+"America/New_York"
+],
+"CLD": [
+33.1283,
+-117.279999,
+"America/Los_Angeles"
+],
+"CLE": [
+41.411701,
+-81.8498,
+"America/New_York"
+],
+"CLL": [
+30.5886,
+-96.3638,
+"America/Chicago"
+],
+"CLT": [
+35.2140007019043,
+-80.94309997558594,
+"America/New_York"
+],
+"CMH": [
+39.998001,
+-82.891899,
+"America/New_York"
+],
+"CMI": [
+40.039819,
+-88.276249,
+"America/Chicago"
+],
+"CMX": [
+47.168399810791016,
+-88.48909759521484,
+"America/Detroit"
+],
+"CNY": [
+38.755001,
+-109.754997,
+"America/Denver"
+],
+"COD": [
+44.520199,
+-109.024002,
+"America/Denver"
+],
+"COS": [
+38.805801,
+-104.700996,
+"America/Denver"
+],
+"COU": [
+38.8181,
+-92.219597,
+"America/Chicago"
+],
+"CPR": [
+42.907381,
+-106.461609,
+"America/Denver"
+],
+"CRP": [
+27.770399,
+-97.501198,
+"America/Chicago"
+],
+"CRW": [
+38.3731,
+-81.593201,
+"America/New_York"
+],
+"CSG": [
+32.516415,
+-84.939602,
+"America/New_York"
+],
+"CVG": [
+39.048801,
+-84.667801,
+"America/New_York"
+],
+"CWA": [
+44.777448,
+-89.670238,
+"America/Chicago"
+],
+"CYS": [
+41.155701,
+-104.811997,
+"America/Denver"
+],
+"DAB": [
+29.18255,
+-81.059464,
+"America/New_York"
+],
+"DAL": [
+32.844776,
+-96.847653,
+"America/Chicago"
+],
+"DAY": [
+39.902401,
+-84.219398,
+"America/New_York"
+],
+"DCA": [
+38.8521,
+-77.037697,
+"America/New_York"
+],
+"DDC": [
+37.76340103149414,
+-99.9655990600586,
+"America/Chicago"
+],
+"DEC": [
+39.834598541259766,
+-88.8656997680664,
+"America/Chicago"
+],
+"DEN": [
+39.860027,
+-104.673792,
+"America/Denver"
+],
+"DFW": [
+32.896801,
+-97.038002,
+"America/Chicago"
+],
+"DHN": [
+31.321300506591797,
+-85.44960021972656,
+"America/Chicago"
+],
+"DIK": [
+46.797533,
+-102.801905,
+"America/Denver"
+],
+"DLG": [
+59.04470062,
+-158.5050049,
+"America/Anchorage"
+],
+"DLH": [
+46.841873,
+-92.198746,
+"America/Chicago"
+],
+"DRO": [
+37.151501,
+-107.753998,
+"America/Denver"
+],
+"DRT": [
+29.3742008209,
+-100.927001953,
+"America/Chicago"
+],
+"DSM": [
+41.534027,
+-93.656719,
+"America/Chicago"
+],
+"DTW": [
+42.21377,
+-83.353786,
+"America/Detroit"
+],
+"DVL": [
+48.115454,
+-98.908796,
+"America/Chicago"
+],
+"EAR": [
+40.727001,
+-99.006798,
+"America/Chicago"
+],
+"EAU": [
+44.86579895019531,
+-91.48429870605469,
+"America/Chicago"
+],
+"ECP": [
+30.357106,
+-85.795414,
+"America/Chicago"
+],
+"EGE": [
+39.64260101,
+-106.9179993,
+"America/Denver"
+],
+"EKO": [
+40.82490158081055,
+-115.79199981689453,
+"America/Los_Angeles"
+],
+"ELM": [
+42.1599006652832,
+-76.8916015625,
+"America/New_York"
+],
+"ELP": [
+31.809908,
+-106.375607,
+"America/Denver"
+],
+"ERI": [
+42.083127,
+-80.173867,
+"America/New_York"
+],
+"ESC": [
+45.723199,
+-87.088623,
+"America/Detroit"
+],
+"EUG": [
+44.124599,
+-123.211998,
+"America/Los_Angeles"
+],
+"EVV": [
+38.0369987488,
+-87.5324020386,
+"America/Chicago"
+],
+"EWN": [
+35.0730018616,
+-77.04290008539999,
+"America/New_York"
+],
+"EWR": [
+40.6894,
+-74.170545,
+"America/New_York"
+],
+"EYW": [
+24.556119,
+-81.759579,
+"America/New_York"
+],
+"FAI": [
+64.815102,
+-147.856003,
+"America/Anchorage"
+],
+"FAR": [
+46.9207,
+-96.815804,
+"America/Chicago"
+],
+"FAT": [
+36.775767,
+-119.718018,
+"America/Los_Angeles"
+],
+"FAY": [
+34.991199,
+-78.880302,
+"America/New_York"
+],
+"FCA": [
+48.310501,
+-114.255997,
+"America/Denver"
+],
+"FLG": [
+35.139757,
+-111.669826,
+"America/Phoenix"
+],
+"FLL": [
+26.072599,
+-80.152702,
+"America/New_York"
+],
+"FMN": [
+36.741199,
+-108.230003,
+"America/Denver"
+],
+"FNT": [
+42.969294,
+-83.743355,
+"America/Detroit"
+],
+"FOD": [
+42.552624,
+-94.191237,
+"America/Chicago"
+],
+"FSD": [
+43.585463,
+-96.741152,
+"America/Chicago"
+],
+"FSM": [
+35.336601,
+-94.367401,
+"America/Chicago"
+],
+"FWA": [
+40.978896,
+-85.194465,
+"America/Indiana/Indianapolis"
+],
+"GCC": [
+44.3489,
+-105.539001,
+"America/Denver"
+],
+"GCK": [
+37.9275016785,
+-100.723999023,
+"America/Chicago"
+],
+"GEG": [
+47.6199,
+-117.533997,
+"America/Los_Angeles"
+],
+"GFK": [
+47.949299,
+-97.176102,
+"America/Chicago"
+],
+"GGG": [
+32.38399887084961,
+-94.71150207519531,
+"America/Chicago"
+],
+"GJT": [
+39.126663,
+-108.529387,
+"America/Denver"
+],
+"GNV": [
+29.6900997162,
+-82.2717971802,
+"America/New_York"
+],
+"GPT": [
+30.405582,
+-89.069836,
+"America/Chicago"
+],
+"GRB": [
+44.483459,
+-88.130805,
+"America/Chicago"
+],
+"GRI": [
+40.967498779296875,
+-98.30960083007812,
+"America/Chicago"
+],
+"GRK": [
+31.0672,
+-97.828903,
+"America/Chicago"
+],
+"GRR": [
+42.880798,
+-85.522797,
+"America/Detroit"
+],
+"GSO": [
+36.09937,
+-79.937262,
+"America/New_York"
+],
+"GSP": [
+34.895699,
+-82.218903,
+"America/New_York"
+],
+"GST": [
+58.4253006,
+-135.7070007,
+"America/Juneau"
+],
+"GTF": [
+47.481998,
+-111.371002,
+"America/Denver"
+],
+"GTR": [
+33.450298,
+-88.5914,
+"America/Chicago"
+],
+"GUC": [
+38.534672,
+-106.934566,
+"America/Denver"
+],
+"GUF": [
+30.290501,
+-87.671799,
+"America/Chicago"
+],
+"GUM": [
+13.485,
+144.797282,
+"Pacific/Guam"
+],
+"HDN": [
+40.481201,
+-107.218002,
+"America/Denver"
+],
+"HGR": [
+39.708771,
+-77.728014,
+"America/New_York"
+],
+"HHH": [
+32.2244,
+-80.697502,
+"America/New_York"
+],
+"HIB": [
+47.384831,
+-92.836905,
+"America/Chicago"
+],
+"HLN": [
+46.6068,
+-111.983002,
+"America/Denver"
+],
+"HNL": [
+21.318387,
+-157.92567,
+"Pacific/Honolulu"
+],
+"HOB": [
+32.6875,
+-103.217003,
+"America/Denver"
+],
+"HOU": [
+29.645336,
+-95.276812,
+"America/Chicago"
+],
+"HPN": [
+41.06700134277344,
+-73.70760345458984,
+"America/New_York"
+],
+"HRL": [
+26.228500366210938,
+-97.65440368652344,
+"America/Chicago"
+],
+"HSV": [
+34.636244,
+-86.774378,
+"America/Chicago"
+],
+"HTS": [
+38.366699,
+-82.557999,
+"America/New_York"
+],
+"HYA": [
+41.6693,
+-70.280403,
+"America/New_York"
+],
+"HYS": [
+38.844521,
+-99.273148,
+"America/Chicago"
+],
+"IAD": [
+38.9445,
+-77.455803,
+"America/New_York"
+],
+"IAG": [
+43.1073,
+-78.946198,
+"America/New_York"
+],
+"IAH": [
+29.9844,
+-95.3414,
+"America/Chicago"
+],
+"ICT": [
+37.650314,
+-97.428583,
+"America/Chicago"
+],
+"IDA": [
+43.514599,
+-112.070999,
+"America/Boise"
+],
+"ILM": [
+34.272345,
+-77.905117,
+"America/New_York"
+],
+"IMT": [
+45.81911,
+-88.114557,
+"America/Menominee"
+],
+"IND": [
+39.7173,
+-86.294403,
+"America/Indiana/Indianapolis"
+],
+"INL": [
+48.566200256347656,
+-93.4030990600586,
+"America/Chicago"
+],
+"ISP": [
+40.796324,
+-73.101703,
+"America/New_York"
+],
+"ITH": [
+42.49100112915039,
+-76.4583969116211,
+"America/New_York"
+],
+"ITO": [
+19.72135,
+-155.045428,
+"Pacific/Honolulu"
+],
+"JAC": [
+43.6073,
+-110.737999,
+"America/Denver"
+],
+"JAN": [
+32.311199,
+-90.075897,
+"America/Chicago"
+],
+"JAX": [
+30.492469,
+-81.687813,
+"America/New_York"
+],
+"JFK": [
+40.639447,
+-73.779317,
+"America/New_York"
+],
+"JLN": [
+37.151798,
+-94.498299,
+"America/Chicago"
+],
+"JMS": [
+46.92969894,
+-98.67819977,
+"America/Chicago"
+],
+"JNU": [
+58.354935,
+-134.574416,
+"America/Juneau"
+],
+"JST": [
+40.31610107421875,
+-78.83390045166016,
+"America/New_York"
+],
+"KOA": [
+19.738783,
+-156.045603,
+"Pacific/Honolulu"
+],
+"KTN": [
+55.35559845,
+-131.7140045,
+"America/Sitka"
+],
+"LAF": [
+40.412875,
+-86.939363,
+"America/Indiana/Indianapolis"
+],
+"LAN": [
+42.777582,
+-84.585721,
+"America/Detroit"
+],
+"LAR": [
+41.31209945678711,
+-105.67500305175781,
+"America/Denver"
+],
+"LAS": [
+36.083361,
+-115.151817,
+"America/Los_Angeles"
+],
+"LAW": [
+34.567699,
+-98.416603,
+"America/Chicago"
+],
+"LAX": [
+33.942501,
+-118.407997,
+"America/Los_Angeles"
+],
+"LBB": [
+33.663601,
+-101.822998,
+"America/Chicago"
+],
+"LBE": [
+40.275902,
+-79.4048,
+"America/New_York"
+],
+"LBF": [
+41.12620163,
+-100.6839981,
+"America/Chicago"
+],
+"LBL": [
+37.0442009,
+-100.9599991,
+"America/Chicago"
+],
+"LCH": [
+30.126100540161133,
+-93.22329711914062,
+"America/Chicago"
+],
+"LCK": [
+39.813801,
+-82.927803,
+"America/New_York"
+],
+"LEX": [
+38.035066,
+-84.606738,
+"America/New_York"
+],
+"LFT": [
+30.205299,
+-91.987602,
+"America/Chicago"
+],
+"LGA": [
+40.777199,
+-73.872597,
+"America/New_York"
+],
+"LGB": [
+33.816523,
+-118.149891,
+"America/Los_Angeles"
+],
+"LIH": [
+21.974393,
+-159.337146,
+"Pacific/Honolulu"
+],
+"LIT": [
+34.729222,
+-92.223591,
+"America/Chicago"
+],
+"LNK": [
+40.844882,
+-96.76178,
+"America/Chicago"
+],
+"LRD": [
+27.5438,
+-99.461601,
+"America/Chicago"
+],
+"LSE": [
+43.879002,
+-91.256699,
+"America/Chicago"
+],
+"LWS": [
+46.3745002746582,
+-117.01499938964844,
+"America/Los_Angeles"
+],
+"MAF": [
+31.942499,
+-102.202003,
+"America/Chicago"
+],
+"MBS": [
+43.533181,
+-84.083104,
+"America/Detroit"
+],
+"MCI": [
+39.301699,
+-94.713893,
+"America/Chicago"
+],
+"MCO": [
+28.429399490356445,
+-81.30899810791016,
+"America/New_York"
+],
+"MCW": [
+43.159801,
+-93.329716,
+"America/Chicago"
+],
+"MDT": [
+40.192838,
+-76.762333,
+"America/New_York"
+],
+"MDW": [
+41.785999,
+-87.752403,
+"America/Chicago"
+],
+"MEI": [
+32.3326,
+-88.7519,
+"America/Chicago"
+],
+"MEM": [
+35.043845,
+-89.97634,
+"America/Chicago"
+],
+"MFE": [
+26.176141,
+-98.237965,
+"America/Chicago"
+],
+"MFR": [
+42.374199,
+-122.873001,
+"America/Los_Angeles"
+],
+"MGM": [
+32.300598,
+-86.393997,
+"America/Chicago"
+],
+"MGW": [
+39.643305,
+-79.917598,
+"America/New_York"
+],
+"MHK": [
+39.14099884033203,
+-96.6707992553711,
+"America/Chicago"
+],
+"MHT": [
+42.932598,
+-71.435699,
+"America/New_York"
+],
+"MIA": [
+25.796011,
+-80.289751,
+"America/New_York"
+],
+"MKE": [
+42.947201,
+-87.896599,
+"America/Chicago"
+],
+"MLB": [
+28.102009,
+-80.641088,
+"America/New_York"
+],
+"MLI": [
+41.448502,
+-90.5075,
+"America/Chicago"
+],
+"MLU": [
+32.510899,
+-92.037697,
+"America/Chicago"
+],
+"MOB": [
+30.6912,
+-88.242798,
+"America/Chicago"
+],
+"MOT": [
+48.25801,
+-101.279123,
+"America/Chicago"
+],
+"MQT": [
+46.351498,
+-87.395884,
+"America/Detroit"
+],
+"MRY": [
+36.586777,
+-121.844183,
+"America/Los_Angeles"
+],
+"MSN": [
+43.1399,
+-89.337502,
+"America/Chicago"
+],
+"MSO": [
+46.915816,
+-114.091107,
+"America/Denver"
+],
+"MSP": [
+44.880081,
+-93.221741,
+"America/Chicago"
+],
+"MSY": [
+29.993401,
+-90.264673,
+"America/Chicago"
+],
+"MTJ": [
+38.5098,
+-107.893997,
+"America/Denver"
+],
+"MVY": [
+41.3931007385,
+-70.6143035889,
+"America/New_York"
+],
+"MYR": [
+33.679699,
+-78.928299,
+"America/New_York"
+],
+"OAJ": [
+34.829201,
+-77.612099,
+"America/New_York"
+],
+"OAK": [
+37.720085,
+-122.221184,
+"America/Los_Angeles"
+],
+"OGG": [
+20.896263,
+-156.431837,
+"Pacific/Honolulu"
+],
+"OKC": [
+35.393388,
+-97.598248,
+"America/Chicago"
+],
+"OMA": [
+41.3032,
+-95.894096,
+"America/Chicago"
+],
+"OME": [
+64.51219940185547,
+-165.44500732421875,
+"America/Nome"
+],
+"ONT": [
+34.056,
+-117.600998,
+"America/Los_Angeles"
+],
+"ORD": [
+41.9786,
+-87.9048,
+"America/Chicago"
+],
+"ORF": [
+36.895341,
+-76.201,
+"America/New_York"
+],
+"ORH": [
+42.2673,
+-71.875702,
+"America/New_York"
+],
+"OTH": [
+43.41709899902344,
+-124.24600219726562,
+"America/Los_Angeles"
+],
+"OTZ": [
+66.88469696,
+-162.598999,
+"America/Nome"
+],
+"OWB": [
+37.74010086,
+-87.16680145,
+"America/Chicago"
+],
+"PAE": [
+47.9063,
+-122.281998,
+"America/Los_Angeles"
+],
+"PBG": [
+44.650902,
+-73.468102,
+"America/New_York"
+],
+"PBI": [
+26.6832,
+-80.0956,
+"America/New_York"
+],
+"PDX": [
+45.588699,
+-122.598,
+"America/Los_Angeles"
+],
+"PGD": [
+26.9202,
+-81.990501,
+"America/New_York"
+],
+"PGV": [
+35.635535,
+-77.384262,
+"America/New_York"
+],
+"PHF": [
+37.131901,
+-76.492996,
+"America/New_York"
+],
+"PHL": [
+39.871899,
+-75.241096,
+"America/New_York"
+],
+"PHX": [
+33.435302,
+-112.005905,
+"America/Phoenix"
+],
+"PIA": [
+40.663841,
+-89.692631,
+"America/Chicago"
+],
+"PIB": [
+31.4671,
+-89.337097,
+"America/Chicago"
+],
+"PIE": [
+27.9102,
+-82.687401,
+"America/New_York"
+],
+"PIH": [
+42.9098014831543,
+-112.59600067138672,
+"America/Boise"
+],
+"PIR": [
+44.38270187,
+-100.2860031,
+"America/Chicago"
+],
+"PIT": [
+40.491501,
+-80.232903,
+"America/New_York"
+],
+"PLN": [
+45.57089996,
+-84.79669952,
+"America/Detroit"
+],
+"PNS": [
+30.472718,
+-87.186639,
+"America/Chicago"
+],
+"PPG": [
+-14.331,
+-170.710007,
+"Pacific/Pago_Pago"
+],
+"PQI": [
+46.688999,
+-68.0448,
+"America/New_York"
+],
+"PRC": [
+34.653502,
+-112.419883,
+"America/Phoenix"
+],
+"PSC": [
+46.264702,
+-119.119003,
+"America/Los_Angeles"
+],
+"PSE": [
+18.008301,
+-66.563004,
+"America/Puerto_Rico"
+],
+"PSG": [
+56.80170059,
+-132.9450073,
+"America/Sitka"
+],
+"PSM": [
+43.0779,
+-70.823303,
+"America/New_York"
+],
+"PSP": [
+33.8297,
+-116.507004,
+"America/Los_Angeles"
+],
+"PUB": [
+38.289101,
+-104.497002,
+"America/Denver"
+],
+"PVD": [
+41.725038,
+-71.425668,
+"America/New_York"
+],
+"PVU": [
+40.218894,
+-111.722445,
+"America/Denver"
+],
+"PWM": [
+43.646198,
+-70.309303,
+"America/New_York"
+],
+"RAP": [
+44.0452995300293,
+-103.05699920654297,
+"America/Denver"
+],
+"RDD": [
+40.50899887,
+-122.2929993,
+"America/Los_Angeles"
+],
+"RDM": [
+44.254101,
+-121.150002,
+"America/Los_Angeles"
+],
+"RDU": [
+35.878659,
+-78.7873,
+"America/New_York"
+],
+"RFD": [
+42.1954,
+-89.097198,
+"America/Chicago"
+],
+"RHI": [
+45.63119888305664,
+-89.46749877929688,
+"America/Chicago"
+],
+"RIC": [
+37.505199,
+-77.319702,
+"America/New_York"
+],
+"RIW": [
+43.064201,
+-108.459999,
+"America/Denver"
+],
+"RKS": [
+41.5942,
+-109.065001,
+"America/Denver"
+],
+"RNO": [
+39.4991,
+-119.767998,
+"America/Los_Angeles"
+],
+"ROA": [
+37.3255,
+-79.975403,
+"America/New_York"
+],
+"ROC": [
+43.1189,
+-77.672401,
+"America/New_York"
+],
+"ROW": [
+33.301601,
+-104.530998,
+"America/Denver"
+],
+"RST": [
+43.908298,
+-92.5,
+"America/Chicago"
+],
+"RSW": [
+26.534685,
+-81.752816,
+"America/New_York"
+],
+"SAF": [
+35.6171,
+-106.088997,
+"America/Denver"
+],
+"SAN": [
+32.733601,
+-117.190002,
+"America/Los_Angeles"
+],
+"SAT": [
+29.533701,
+-98.469803,
+"America/Chicago"
+],
+"SAV": [
+32.126591,
+-81.19998,
+"America/New_York"
+],
+"SBA": [
+34.426201,
+-119.839996,
+"America/Los_Angeles"
+],
+"SBN": [
+41.708304,
+-86.316922,
+"America/Indiana/Indianapolis"
+],
+"SBP": [
+35.236801147499996,
+-120.641998291,
+"America/Los_Angeles"
+],
+"SCC": [
+70.19470215,
+-148.4649963,
+"America/Anchorage"
+],
+"SCE": [
+40.849374,
+-77.84852,
+"America/New_York"
+],
+"SCK": [
+37.893279,
+-121.238079,
+"America/Los_Angeles"
+],
+"SDF": [
+38.1706,
+-85.735076,
+"America/Kentucky/Louisville"
+],
+"SEA": [
+47.447943,
+-122.310276,
+"America/Los_Angeles"
+],
+"SFB": [
+28.774277,
+-81.234626,
+"America/New_York"
+],
+"SFO": [
+37.619806,
+-122.374821,
+"America/Los_Angeles"
+],
+"SGF": [
+37.245047,
+-93.388596,
+"America/Chicago"
+],
+"SGU": [
+37.036389,
+-113.510306,
+"America/Denver"
+],
+"SHR": [
+44.76919937133789,
+-106.9800033569336,
+"America/Denver"
+],
+"SHV": [
+32.444747,
+-93.826741,
+"America/Chicago"
+],
+"SIT": [
+57.04710006713867,
+-135.36199951171875,
+"America/Sitka"
+],
+"SJC": [
+37.362452,
+-121.929188,
+"America/Los_Angeles"
+],
+"SJT": [
+31.35770034790039,
+-100.49600219726562,
+"America/Chicago"
+],
+"SJU": [
+18.4394,
+-66.001801,
+"America/Puerto_Rico"
+],
+"SLC": [
+40.78886,
+-111.979866,
+"America/Denver"
+],
+"SLN": [
+38.79100036621094,
+-97.6521987915039,
+"America/Chicago"
+],
+"SMF": [
+38.6954,
+-121.591003,
+"America/Los_Angeles"
+],
+"SMX": [
+34.898899,
+-120.457001,
+"America/Los_Angeles"
+],
+"SNA": [
+33.675063,
+-117.869281,
+"America/Los_Angeles"
+],
+"SPI": [
+39.844101,
+-89.677902,
+"America/Chicago"
+],
+"SPN": [
+15.119384,
+145.728848,
+"Pacific/Saipan"
+],
+"SPS": [
+33.9888,
+-98.491898,
+"America/Chicago"
+],
+"SRQ": [
+27.394631,
+-82.554359,
+"America/New_York"
+],
+"STC": [
+45.5466,
+-94.059898,
+"America/Chicago"
+],
+"STL": [
+38.748697,
+-90.370003,
+"America/Chicago"
+],
+"STS": [
+38.50899887,
+-122.8130035,
+"America/Los_Angeles"
+],
+"STT": [
+18.337091,
+-64.977251,
+"America/St_Thomas"
+],
+"STX": [
+17.701413,
+-64.802608,
+"America/St_Thomas"
+],
+"SUN": [
+43.50439835,
+-114.2959976,
+"America/Boise"
+],
+"SUX": [
+42.397605,
+-96.382237,
+"America/Chicago"
+],
+"SWF": [
+41.50421,
+-74.108901,
+"America/New_York"
+],
+"SWO": [
+36.162132,
+-97.085581,
+"America/Chicago"
+],
+"SYR": [
+43.11119842529297,
+-76.1063003540039,
+"America/New_York"
+],
+"TLH": [
+30.401209,
+-84.35433,
+"America/New_York"
+],
+"TOL": [
+41.5868,
+-83.8078,
+"America/New_York"
+],
+"TPA": [
+27.9755,
+-82.533203,
+"America/New_York"
+],
+"TRI": [
+36.475201,
+-82.407401,
+"America/New_York"
+],
+"TTN": [
+40.276699,
+-74.813499,
+"America/New_York"
+],
+"TUL": [
+36.197084,
+-95.886225,
+"America/Chicago"
+],
+"TUS": [
+32.115004,
+-110.938053,
+"America/Phoenix"
+],
+"TVC": [
+44.741402,
+-85.582199,
+"America/Detroit"
+],
+"TWF": [
+42.4818,
+-114.487999,
+"America/Boise"
+],
+"TXK": [
+33.453701,
+-93.990997,
+"America/Chicago"
+],
+"TYR": [
+32.35409927368164,
+-95.40239715576172,
+"America/Chicago"
+],
+"TYS": [
+35.811001,
+-83.994003,
+"America/New_York"
+],
+"USA": [
+35.387798,
+-80.709099,
+"America/New_York"
+],
+"VCT": [
+28.85260009765625,
+-96.91850280761719,
+"America/Chicago"
+],
+"VEL": [
+40.436214,
+-109.511661,
+"America/Denver"
+],
+"VLD": [
+30.782499313354492,
+-83.27670288085938,
+"America/New_York"
+],
+"VPS": [
+30.481315,
+-86.515839,
+"America/Chicago"
+],
+"VRB": [
+27.6556,
+-80.417901,
+"America/New_York"
+],
+"WRG": [
+56.48429871,
+-132.3699951,
+"America/Sitka"
+],
+"WYS": [
+44.6884,
+-111.117996,
+"America/Denver"
+],
+"XNA": [
+36.281898,
+-94.306801,
+"America/Chicago"
+],
+"XWA": [
+48.260863,
+-103.75116,
+"America/Chicago"
+],
+"YAK": [
+59.508717,
+-139.660435,
+"America/Yakutat"
+],
+"YUM": [
+32.650938,
+-114.609375,
+"America/Phoenix"
+]
+}

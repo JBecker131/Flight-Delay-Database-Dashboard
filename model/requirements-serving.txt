@@ -1,0 +1,12 @@
+# The API's dependencies (model/modal_app.py). scikit-learn, numpy, pandas and scipy match the versions
+# the notebook trained with, so the saved model unpickles the same way.
+scikit-learn==1.9.1
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.18.1
+joblib==1.6.0
+fastapi==0.141.1
+uvicorn==0.53.0
+httpx==0.28.1
+psycopg[binary]==3.3.6
+tzdata
