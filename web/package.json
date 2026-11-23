@@ -1,0 +1,11 @@
+{
+  "name": "flight-delay-forecast",
+  "private": true,
+  "type": "module",
+  "description": "Departures board with delay predictions from the gradient boosting model, for Vercel",
+  "engines": { "node": "24.x" },
+  "scripts": {
+    "dev": "node dev-server.mjs",
+    "test": "node --test"
+  }
+}

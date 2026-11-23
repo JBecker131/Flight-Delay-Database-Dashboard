@@ -11,6 +11,8 @@ means in practice:
                     "high" (the riskiest 20%), so the website can show a label, not a promise
   bins              20 equal groups of test flights by predicted delay, each with the share that
                     actually left 15+ and 60+ minutes late: the API's chance_late_15 / chance_late_60
+  percentiles       the 0th, 1st, ... 100th percentile of the test predictions: the API's risk_score,
+                    how a flight ranks against every test flight (88 = riskier than 88% of them)
   elapsed_fit       scheduled minutes ~ a + b * miles, for a flight sent without an arrival time
 
 It also writes airports.json (code -> latitude, longitude, timezone) from flights.db, for distances
@@ -93,6 +95,7 @@ def main():
         "risk_thresholds": {"medium": round(float(np.quantile(pred, 0.5)), 3),
                             "high": round(float(np.quantile(pred, 0.8)), 3)},
         "bins": calibration(pred, actual),
+        "percentiles": [round(float(v), 3) for v in np.quantile(pred, np.linspace(0, 1, 101))],
         "elapsed_fit": {"intercept": round(float(intercept), 3), "per_mile": round(float(slope), 5)},
     }
 

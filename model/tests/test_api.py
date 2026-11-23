@@ -127,5 +127,11 @@ def test_risk_labels_follow_the_test_set_thresholds(artifacts, tables):
     assert predictor.describe(0)["risk"] == "low"
     assert predictor.describe(t["medium"])["risk"] == "medium"
     assert predictor.describe(t["high"] + 50)["risk"] == "high"
+    scores = [predictor.describe(v)["risk_score"] for v in (-50, 0, t["medium"], t["high"], 40, 500)]
+    assert scores[0] == 1 and scores[-1] == 99 and scores == sorted(scores)
+    # The risk bands are the median and the 80th percentile, so the score lines up with them.
+    assert scores[2] == 50 and scores[3] == 80
+    # Just under a band's start stays under its score, so the board's number and label always agree.
+    assert predictor.describe(t["high"] - 0.01)["risk_score"] == 79 and predictor.describe(t["high"] - 0.01)["risk"] == "medium"
     chances = [predictor.describe(v)["chance_late_15"] for v in (0, 10, 20, 40, 200)]
     assert chances == sorted(chances)

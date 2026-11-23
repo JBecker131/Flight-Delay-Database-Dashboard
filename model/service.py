@@ -6,10 +6,12 @@ each prediction also comes with what that number meant on the 411,465 held-out t
 (model/artifacts/serving.json, from export_serving.py):
 
   risk            low (below the median prediction), medium, or high (the riskiest 20%)
+  risk_score      1-99: how the prediction ranks against every test flight (88 = riskier than 88%)
   chance_late_15  the share of test flights with a similar prediction that left 15+ minutes late
   chance_late_60  ... and 60+ minutes late
 """
 import bisect
+import math
 import json
 from pathlib import Path
 
@@ -36,12 +38,30 @@ class Predictor:
         self.levels = feature_meta["categorical_levels"]
         self.lookups, self.weather = lookups, weather
         self._uppers = [b["upper"] for b in serving["bins"][:-1]]
+        self._percentiles = serving.get("percentiles")
 
     def describe(self, value):
         thresholds = self.serving["risk_thresholds"]
         risk = "high" if value >= thresholds["high"] else "medium" if value >= thresholds["medium"] else "low"
         group = self.serving["bins"][bisect.bisect_right(self._uppers, value)]
-        return {"risk": risk, "chance_late_15": group["late15"], "chance_late_60": group["late60"]}
+        return {"risk": risk, "risk_score": self.risk_score(value),
+                "chance_late_15": group["late15"], "chance_late_60": group["late60"]}
+
+    def risk_score(self, value):
+        """The share of test flights predicted lower than `value`, as 1-99 (None for an older serving.json)."""
+        p = self._percentiles
+        if not p:
+            return None
+        i = bisect.bisect_right(p, value)
+        if i == 0:
+            rank = 0.0
+        elif i == len(p):
+            rank = 100.0
+        else:
+            lo, hi = p[i - 1], p[i]
+            rank = i - 1 + ((value - lo) / (hi - lo) if hi > lo else 0.0)
+        # Rounded down, so a score of 50 or 80 starts exactly where the medium and high bands do.
+        return int(min(99, max(1, math.floor(rank))))
 
     def predict(self, flights: list[feat.Flight], include_features=False):
         results, schedules = [], []
