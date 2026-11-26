@@ -166,6 +166,65 @@ body {
   color: #6d757d;
 }
 
+/* Airport dropdowns: browsers that support customizable selects (Chrome/Edge 135+) get a
+   themed list with a custom scrollbar; others keep their native list. */
+.field select {
+  scrollbar-color: #5b626a var(--flap-bottom);
+}
+
+@supports (appearance: base-select) {
+  .field select,
+  .field select::picker(select) {
+    appearance: base-select;
+  }
+
+  .field select::picker-icon {
+    display: none; /* the chevron is already drawn as a background image */
+  }
+
+  .field select:open {
+    border-color: #4a5058;
+  }
+
+  .field select::picker(select) {
+    margin-top: 4px;
+    padding: 4px;
+    max-block-size: min(340px, 55vh);
+    overflow-y: auto;
+    border: 1px solid var(--housing-hi);
+    border-radius: 4px;
+    background: var(--housing);
+    color: var(--ink);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.45);
+    scrollbar-width: thin;
+    scrollbar-color: #5b626a var(--flap-bottom);
+    scrollbar-gutter: stable;
+  }
+
+  .field select option {
+    gap: 8px;
+    padding: 8px 10px;
+    border-radius: 3px;
+    font: 500 1rem/1.25 var(--ui);
+    cursor: pointer;
+  }
+
+  .field select option:hover,
+  .field select option:focus-visible {
+    outline: none;
+    background: var(--housing-hi);
+  }
+
+  .field select option:checked {
+    color: var(--sign);
+    font-weight: 600;
+  }
+
+  .field select option::checkmark {
+    color: var(--sign);
+  }
+}
+
 .text-button {
   padding: 10px 4px;
   border: 0;
